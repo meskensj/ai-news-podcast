@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "AI-update — 2026-07-31",
+    "description": "Nieuws 2026-07-31. OpenAI's rogue agent used public credentials across four external services in the Hugging Face breach — new Washington Post timeline published July 30 · Microsoft Copilot for Word found to propagate a self-replicating prompt-injection 'AI worm' through normal document-sharing workflows — disclosed July 30 · EU AI Act GPAI enforcement and Article 50 transparency rules become fully enforceable on 2 August 2026 — European Commission gains power to fine, investigate and order corrective measures · Grant Thornton 2026 AI Impact Survey: 78% of executives cannot pass an independent AI governance audit in 90 days; fully integrated organisations are 4× more likely to report revenue growth · AI-attributed layoffs hit 170,945 workers across 40+ companies in 2026 YTD — Oracle's regulatory filing explicitly names AI as the cause of 30,000 cuts and $1.84B in severance costs · Google, Microsoft, Snowflake, Salesforce and ServiceNow back 'Agent Resource Discovery' (ARD) — an open Apache 2.0 standard to rival Anthropic's MCP at the agent-to-enterprise-data layer",
+    "date": "2026-07-31T06:00:00+02:00",
+    "guid": "update-2026-07-31",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-07-31/update-2026-07-31.mp3",
+    "bytes": 5276991,
+    "duration": 495
+  }
+]
