@@ -7,5 +7,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-07-31/update-2026-07-31.mp3",
     "bytes": 8112269,
     "duration": 767
+  },
+  {
+    "title": "Test aflevering",
+    "description": "Testaflevering (kopie).",
+    "date": "2026-07-31T13:00:00+02:00",
+    "guid": "test-aflevering",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/test-aflevering/test-aflevering.mp3",
+    "bytes": 8112269,
+    "duration": 767
   }
 ]
