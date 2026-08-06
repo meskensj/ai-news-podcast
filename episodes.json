@@ -7,5 +7,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-07-31/update-2026-07-31.mp3",
     "bytes": 5276991,
     "duration": 495
+  },
+  {
+    "title": "AI-update — 2026-08-06",
+    "description": "Nieuws 2026-08-01 tot 2026-08-06. EU AI Act Article 50 transparency rules and GPAI enforcement powers go live on 2 August — the Commission confirms enforcement starts tomorrow · Microsoft Q4 FY2026: Azure crosses $100B annual revenue, Copilot hits 30M paid seats — but capex jumps 69% and Copilot penetration is still below 7% of M365 base · EU launches €30B AI Gigafactories tender — up to seven facilities, bids close November 2026, construction 2027 · Amazon winds down Nova Premier, Omni, Reel and Canvas — four flagship models moved to 'keep the lights on' mode as strategy resets around one frontier model · McDonald's AI hiring chatbot 'Olivia' exposed 64M job applications via password '123456' — a textbook AI vendor governance failure · DataCamp 2026: 82% of enterprise leaders say they provide AI training — yet 59% still report a skills gap, proving training volume alone does not close the capability deficit",
+    "date": "2026-08-06T06:00:00+02:00",
+    "guid": "update-2026-08-06",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-06/update-2026-08-06.mp3",
+    "bytes": 6281344,
+    "duration": 584
   }
 ]
