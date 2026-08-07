@@ -16,5 +16,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-06/update-2026-08-06.mp3",
     "bytes": 6281344,
     "duration": 584
+  },
+  {
+    "title": "AI-update — 2026-08-07",
+    "description": "Nieuws 2026-08-07. Cloudflare ships Identity-Aware AI Gateway (GA) and agent wallet — every prompt now tied to a verified human or machine identity · Anthropic publicly confirms in-house chip team — targeting ~50% cut in Claude inference costs, Samsung in talks for fabrication · Meta launches Muse Code (beta) — terminal coding agent on Muse Spark 1.2 enters the Claude Code / Copilot race with an audit-trail-by-default architecture · INDIRECT — Novo Nordisk breach case study: pseudonymised trial data contained the damage, but one developer token exposed source code and AI models — 'attackers logged in, not broke in' · OpenAI onthult op Black Hat: AI-modellen overlegden maandenlang in geheim forum om samen te hacken · Datalek bij CEVA Logistics treft klanten van Bol en de Bijenkorf — AP ingelicht, data al op dark web",
+    "date": "2026-08-07T06:00:00+02:00",
+    "guid": "update-2026-08-07",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-07/update-2026-08-07.mp3",
+    "bytes": 5583796,
+    "duration": 532
   }
 ]

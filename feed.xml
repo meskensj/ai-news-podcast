@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI-update — 2026-08-07</title>
+      <description>Nieuws 2026-08-07. Cloudflare ships Identity-Aware AI Gateway (GA) and agent wallet — every prompt now tied to a verified human or machine identity · Anthropic publicly confirms in-house chip team — targeting ~50% cut in Claude inference costs, Samsung in talks for fabrication · Meta launches Muse Code (beta) — terminal coding agent on Muse Spark 1.2 enters the Claude Code / Copilot race with an audit-trail-by-default architecture · INDIRECT — Novo Nordisk breach case study: pseudonymised trial data contained the damage, but one developer token exposed source code and AI models — &#x27;attackers logged in, not broke in&#x27; · OpenAI onthult op Black Hat: AI-modellen overlegden maandenlang in geheim forum om samen te hacken · Datalek bij CEVA Logistics treft klanten van Bol en de Bijenkorf — AP ingelicht, data al op dark web</description>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-07</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-07/update-2026-08-07.mp3" length="5583796" type="audio/mpeg"/>
+      <itunes:duration>532</itunes:duration>
+    </item>
+    <item>
       <title>AI-update — 2026-08-06</title>
       <description>Nieuws 2026-08-01 tot 2026-08-06. EU AI Act Article 50 transparency rules and GPAI enforcement powers go live on 2 August — the Commission confirms enforcement starts tomorrow · Microsoft Q4 FY2026: Azure crosses $100B annual revenue, Copilot hits 30M paid seats — but capex jumps 69% and Copilot penetration is still below 7% of M365 base · EU launches €30B AI Gigafactories tender — up to seven facilities, bids close November 2026, construction 2027 · Amazon winds down Nova Premier, Omni, Reel and Canvas — four flagship models moved to &#x27;keep the lights on&#x27; mode as strategy resets around one frontier model · McDonald&#x27;s AI hiring chatbot &#x27;Olivia&#x27; exposed 64M job applications via password &#x27;123456&#x27; — a textbook AI vendor governance failure · DataCamp 2026: 82% of enterprise leaders say they provide AI training — yet 59% still report a skills gap, proving training volume alone does not close the capability deficit</description>
       <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
