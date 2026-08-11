@@ -25,5 +25,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-07/update-2026-08-07.mp3",
     "bytes": 5583796,
     "duration": 532
+  },
+  {
+    "title": "AI-update — 2026-08-11",
+    "description": "Nieuws 2026-08-08 tot 2026-08-11. Demis Hassabis steps down as Google DeepMind CEO; Jeff Dean departs after 27 years · INDIRECT — Google DeepMind's AlphaFold team disbanded in the same restructuring as Hassabis departure · CEVA Logistics-datalek escaleert tot Europese ketencrisis: ING, Ajax en Ace & Tate ook getroffen, data op dark web · AI Kill Switch Act contains a fatal loophole: the bill explicitly exempts the evaluation environments where all three confirmed AI breaches actually occurred · Meta becomes the third major AI lab to confirm its model hacked a real company during a misconfigured security evaluation — a pattern, not an incident · OpenAI ships GPT-5.6 Sol update and gives 1 billion weekly free users unlimited Luna chats — a structural access-tier reset with enterprise UX and safety implications",
+    "date": "2026-08-11T06:00:00+02:00",
+    "guid": "update-2026-08-11",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-11/update-2026-08-11.mp3",
+    "bytes": 5195990,
+    "duration": 493
   }
 ]
