@@ -34,5 +34,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-11/update-2026-08-11.mp3",
     "bytes": 5195990,
     "duration": 493
+  },
+  {
+    "title": "Looped Out — 2026-08-14",
+    "description": "Looped Out. Je AI & data in vijf minuten — nieuws 2026-08-12 tot 2026-08-14. Anthropic targets September–October IPO as WSJ reports active investor meetings; OpenAI defers public listing to 2027 · California's 30-plus AI bills hit make-or-break suspense vote today — the largest single state legislative AI event of 2026 · CoreWeave, SuperMicro, and Nebius report triple-digit stock gains on August 12 earnings beats — AI compute demand shows no sign of cooling · AI software stocks (Palantir, Microsoft) decline as chip stocks surge on August 12 — market signals a compute-over-platform premium shift · arXiv cs.AI lists 1,310 new entries for August 13, 2026, including a paper on cohomological limits of local verification in agentic reasoning — governance cannot be solved at the agent level alone · ZipRecruiter 2026 AI Employer Report: 92% of US employers now use AI, but training is still left to self-teaching — the upskilling gap is a retention and liability risk",
+    "date": "2026-08-14T06:00:00+02:00",
+    "guid": "update-2026-08-14",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-14/update-2026-08-14.mp3",
+    "bytes": 3091396,
+    "duration": 259
   }
 ]

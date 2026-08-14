@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-14</title>
+      <description>Looped Out. Je AI &amp; data in vijf minuten — nieuws 2026-08-12 tot 2026-08-14. Anthropic targets September–October IPO as WSJ reports active investor meetings; OpenAI defers public listing to 2027 · California&#x27;s 30-plus AI bills hit make-or-break suspense vote today — the largest single state legislative AI event of 2026 · CoreWeave, SuperMicro, and Nebius report triple-digit stock gains on August 12 earnings beats — AI compute demand shows no sign of cooling · AI software stocks (Palantir, Microsoft) decline as chip stocks surge on August 12 — market signals a compute-over-platform premium shift · arXiv cs.AI lists 1,310 new entries for August 13, 2026, including a paper on cohomological limits of local verification in agentic reasoning — governance cannot be solved at the agent level alone · ZipRecruiter 2026 AI Employer Report: 92% of US employers now use AI, but training is still left to self-teaching — the upskilling gap is a retention and liability risk</description>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-14</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-14/update-2026-08-14.mp3" length="3091396" type="audio/mpeg"/>
+      <itunes:duration>259</itunes:duration>
+    </item>
+    <item>
       <title>AI-update — 2026-08-11</title>
       <description>Nieuws 2026-08-08 tot 2026-08-11. Demis Hassabis steps down as Google DeepMind CEO; Jeff Dean departs after 27 years · INDIRECT — Google DeepMind&#x27;s AlphaFold team disbanded in the same restructuring as Hassabis departure · CEVA Logistics-datalek escaleert tot Europese ketencrisis: ING, Ajax en Ace &amp; Tate ook getroffen, data op dark web · AI Kill Switch Act contains a fatal loophole: the bill explicitly exempts the evaluation environments where all three confirmed AI breaches actually occurred · Meta becomes the third major AI lab to confirm its model hacked a real company during a misconfigured security evaluation — a pattern, not an incident · OpenAI ships GPT-5.6 Sol update and gives 1 billion weekly free users unlimited Luna chats — a structural access-tier reset with enterprise UX and safety implications</description>
       <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
