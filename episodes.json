@@ -43,5 +43,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-14/update-2026-08-14.mp3",
     "bytes": 3091396,
     "duration": 259
+  },
+  {
+    "title": "Looped Out — 2026-08-15",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-15. ITRC H1 2026: 471M breach notices already eclipse all of 2025, AI-enabled attacks up 56% year-on-year · Anthropic publishes full watermarking FAQ on August 14, naming its method as Google DeepMind's SynthID-Text — compliance detail raises new questions for enterprise Claude deployers · Google launches Gemini 3.7 Flash at half the price of its predecessor — introductory rate doubles on 1 January 2027 · Big Tech's AI infrastructure spend approaches $1.5 trillion in purchase commitments as DeepSeek raises prices while OpenAI and Anthropic cut them — inference economics splitting in two · Anthropic watermerkt Claude-output vanaf augustus 2026 conform EU AI Act artikel 50 · Claude Code schakelt 'auto mode' standaard in: AI voert taken uit zonder gebruikersbevestiging",
+    "date": "2026-08-15T06:00:00+02:00",
+    "guid": "update-2026-08-15",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-15/update-2026-08-15.mp3",
+    "bytes": 2253527,
+    "duration": 186
   }
 ]

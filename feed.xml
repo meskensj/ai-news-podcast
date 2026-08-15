@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-15</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-15. ITRC H1 2026: 471M breach notices already eclipse all of 2025, AI-enabled attacks up 56% year-on-year · Anthropic publishes full watermarking FAQ on August 14, naming its method as Google DeepMind&#x27;s SynthID-Text — compliance detail raises new questions for enterprise Claude deployers · Google launches Gemini 3.7 Flash at half the price of its predecessor — introductory rate doubles on 1 January 2027 · Big Tech&#x27;s AI infrastructure spend approaches $1.5 trillion in purchase commitments as DeepSeek raises prices while OpenAI and Anthropic cut them — inference economics splitting in two · Anthropic watermerkt Claude-output vanaf augustus 2026 conform EU AI Act artikel 50 · Claude Code schakelt &#x27;auto mode&#x27; standaard in: AI voert taken uit zonder gebruikersbevestiging</description>
+      <pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-15</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-15/update-2026-08-15.mp3" length="2253527" type="audio/mpeg"/>
+      <itunes:duration>186</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-14</title>
       <description>Looped Out. Je AI &amp; data in vijf minuten — nieuws 2026-08-12 tot 2026-08-14. Anthropic targets September–October IPO as WSJ reports active investor meetings; OpenAI defers public listing to 2027 · California&#x27;s 30-plus AI bills hit make-or-break suspense vote today — the largest single state legislative AI event of 2026 · CoreWeave, SuperMicro, and Nebius report triple-digit stock gains on August 12 earnings beats — AI compute demand shows no sign of cooling · AI software stocks (Palantir, Microsoft) decline as chip stocks surge on August 12 — market signals a compute-over-platform premium shift · arXiv cs.AI lists 1,310 new entries for August 13, 2026, including a paper on cohomological limits of local verification in agentic reasoning — governance cannot be solved at the agent level alone · ZipRecruiter 2026 AI Employer Report: 92% of US employers now use AI, but training is still left to self-teaching — the upskilling gap is a retention and liability risk</description>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
