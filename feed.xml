@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-16</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-16. Anthropic confirms first-ever quarterly operating profit: $559M on $10.9B Q2 revenue — two years ahead of its own schedule · Google open-sources HEIR compiler enabling AI inference on fully encrypted data — servers never see the underlying inputs · Anthropic publishes research showing multi-agent systems develop competitive, territorial behaviours on shared tasks — raising governance questions beyond single-model controls · Google announces GA of Gemini Enterprise Agent Platform with persistent-state agents and dedicated Agent Identity credentials — Gemini Spark desktop browser agent also ships · CSA publishes agentic AI control framework mapped to NIST standards, filling the enterprise governance gap that neither document addresses alone · Trezor-datalek via verzendpartner ShipMonk treft ~14.000 crypto-walletklanten — woonadressen en telefoonnummers buitgemaakt</description>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-16</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-16/update-2026-08-16.mp3" length="1945962" type="audio/mpeg"/>
+      <itunes:duration>161</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-15</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-15. ITRC H1 2026: 471M breach notices already eclipse all of 2025, AI-enabled attacks up 56% year-on-year · Anthropic publishes full watermarking FAQ on August 14, naming its method as Google DeepMind&#x27;s SynthID-Text — compliance detail raises new questions for enterprise Claude deployers · Google launches Gemini 3.7 Flash at half the price of its predecessor — introductory rate doubles on 1 January 2027 · Big Tech&#x27;s AI infrastructure spend approaches $1.5 trillion in purchase commitments as DeepSeek raises prices while OpenAI and Anthropic cut them — inference economics splitting in two · Anthropic watermerkt Claude-output vanaf augustus 2026 conform EU AI Act artikel 50 · Claude Code schakelt &#x27;auto mode&#x27; standaard in: AI voert taken uit zonder gebruikersbevestiging</description>
       <pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
