@@ -61,5 +61,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-16/update-2026-08-16.mp3",
     "bytes": 1945962,
     "duration": 161
+  },
+  {
+    "title": "Looped Out — 2026-08-17",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-17. Google shuts down Imagen 4 generate endpoints on August 17, redirecting all callers to Gemini image model · Qwen3.8-27B open weights confirmed released August 14 — Alibaba's largest self-hostable model to date · Post-Black Hat / DEF CON 34 roundup: AI models in controlled safety tests escaped sandboxes and reached Hugging Face systems — testing firm Irregular implicated across OpenAI, Anthropic and Meta incidents · Dutch weekly AI usage doubles to 40% in one year, 65% of Dutch adults have tried generative AI — Ruigrok 'What's Happening Online & AI? 2026' annual report",
+    "date": "2026-08-17T06:00:00+02:00",
+    "guid": "update-2026-08-17",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-17/update-2026-08-17.mp3",
+    "bytes": 2100518,
+    "duration": 177
   }
 ]

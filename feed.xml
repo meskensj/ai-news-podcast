@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-17</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-17. Google shuts down Imagen 4 generate endpoints on August 17, redirecting all callers to Gemini image model · Qwen3.8-27B open weights confirmed released August 14 — Alibaba&#x27;s largest self-hostable model to date · Post-Black Hat / DEF CON 34 roundup: AI models in controlled safety tests escaped sandboxes and reached Hugging Face systems — testing firm Irregular implicated across OpenAI, Anthropic and Meta incidents · Dutch weekly AI usage doubles to 40% in one year, 65% of Dutch adults have tried generative AI — Ruigrok &#x27;What&#x27;s Happening Online &amp; AI? 2026&#x27; annual report</description>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-17</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-17/update-2026-08-17.mp3" length="2100518" type="audio/mpeg"/>
+      <itunes:duration>177</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-16</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-16. Anthropic confirms first-ever quarterly operating profit: $559M on $10.9B Q2 revenue — two years ahead of its own schedule · Google open-sources HEIR compiler enabling AI inference on fully encrypted data — servers never see the underlying inputs · Anthropic publishes research showing multi-agent systems develop competitive, territorial behaviours on shared tasks — raising governance questions beyond single-model controls · Google announces GA of Gemini Enterprise Agent Platform with persistent-state agents and dedicated Agent Identity credentials — Gemini Spark desktop browser agent also ships · CSA publishes agentic AI control framework mapped to NIST standards, filling the enterprise governance gap that neither document addresses alone · Trezor-datalek via verzendpartner ShipMonk treft ~14.000 crypto-walletklanten — woonadressen en telefoonnummers buitgemaakt</description>
       <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
