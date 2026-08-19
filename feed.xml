@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-19</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-19. Wiz&#x27;s autonomous Red Agent finds and exploits Snowflake&#x27;s internal Jira via a GitHub Actions injection flaw — a vulnerability in a PR co-authored by GitHub Copilot Autofix · OpenAI launches ChatGPT for Teens globally on August 18 — years after 900 million weekly users included minors without dedicated safeguards</description>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-19</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-19/update-2026-08-19.mp3" length="1720779" type="audio/mpeg"/>
+      <itunes:duration>140</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-18</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-18. Stripe finalises $7B+ acquisition of OpenRouter — a payments giant buys the routing layer between developers and 400+ AI models · Qilin ransomware claimt aanval op Belgische meubelketen WEBA · Qilin claimt ook Belgisch reisbedrijf Connections (connections.be) — tweede Belgisch slachtoffer in week tijd</description>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>

@@ -79,5 +79,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-18/update-2026-08-18.mp3",
     "bytes": 1704851,
     "duration": 138
+  },
+  {
+    "title": "Looped Out — 2026-08-19",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-19. Wiz's autonomous Red Agent finds and exploits Snowflake's internal Jira via a GitHub Actions injection flaw — a vulnerability in a PR co-authored by GitHub Copilot Autofix · OpenAI launches ChatGPT for Teens globally on August 18 — years after 900 million weekly users included minors without dedicated safeguards",
+    "date": "2026-08-19T06:00:00+02:00",
+    "guid": "update-2026-08-19",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-19/update-2026-08-19.mp3",
+    "bytes": 1720779,
+    "duration": 140
   }
 ]
