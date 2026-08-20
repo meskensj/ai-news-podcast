@@ -88,5 +88,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-19/update-2026-08-19.mp3",
     "bytes": 1720779,
     "duration": 140
+  },
+  {
+    "title": "Looped Out — 2026-08-20",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-20. CISA adds actively-exploited Ray AI framework RCE flaw to KEV with a 3-day federal patch deadline — today is the due date · Nvidia in talks to invest in AI data-labelling firm Mercor at $20B valuation — doubling in nine months, with $2B annualised revenue",
+    "date": "2026-08-20T06:00:00+02:00",
+    "guid": "update-2026-08-20",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-20/update-2026-08-20.mp3",
+    "bytes": 1821118,
+    "duration": 149
   }
 ]
