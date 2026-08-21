@@ -97,5 +97,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-20/update-2026-08-20.mp3",
     "bytes": 1821118,
     "duration": 149
+  },
+  {
+    "title": "Looped Out — 2026-08-21",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-21. Linear platform data: AI now authors nearly half of all software issues — but total development time still increased · Pennsylvania Governor signs 'nation's strictest' AI data center executive order — local veto, self-supply power mandate, NDAs banned · Cerebras launches CS-4: three-wafer rack claims 30× GPU inference speed, 750 petaFLOPS — first hardware since $5.55B Nasdaq IPO · CCB waarschuwt essentiële NIS2-entiteiten voor Frontier AI-risico's — nieuwe mededeling met aangescherpte conformiteitsvereisten · Oracle augustus 2026 CSPU: 943 patches, 460+ remote exploits zonder authenticatie — kritieke WebLogic-kwetsbaarheden CVSS 9.8/9.9 · Megaproces tegen Meta van start: 29 Amerikaanse staten eisen tot $1,4 biljoen wegens verslavend app-ontwerp en datamisbruik van minderjarigen",
+    "date": "2026-08-21T06:00:00+02:00",
+    "guid": "update-2026-08-21",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-21/update-2026-08-21.mp3",
+    "bytes": 1907113,
+    "duration": 159
   }
 ]

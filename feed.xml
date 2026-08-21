@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-21</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-21. Linear platform data: AI now authors nearly half of all software issues — but total development time still increased · Pennsylvania Governor signs &#x27;nation&#x27;s strictest&#x27; AI data center executive order — local veto, self-supply power mandate, NDAs banned · Cerebras launches CS-4: three-wafer rack claims 30× GPU inference speed, 750 petaFLOPS — first hardware since $5.55B Nasdaq IPO · CCB waarschuwt essentiële NIS2-entiteiten voor Frontier AI-risico&#x27;s — nieuwe mededeling met aangescherpte conformiteitsvereisten · Oracle augustus 2026 CSPU: 943 patches, 460+ remote exploits zonder authenticatie — kritieke WebLogic-kwetsbaarheden CVSS 9.8/9.9 · Megaproces tegen Meta van start: 29 Amerikaanse staten eisen tot $1,4 biljoen wegens verslavend app-ontwerp en datamisbruik van minderjarigen</description>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-21</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-21/update-2026-08-21.mp3" length="1907113" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-20</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-20. CISA adds actively-exploited Ray AI framework RCE flaw to KEV with a 3-day federal patch deadline — today is the due date · Nvidia in talks to invest in AI data-labelling firm Mercor at $20B valuation — doubling in nine months, with $2B annualised revenue</description>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
