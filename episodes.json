@@ -106,5 +106,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-21/update-2026-08-21.mp3",
     "bytes": 1907113,
     "duration": 159
+  },
+  {
+    "title": "Looped Out — 2026-08-22",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-22. NCSC publishes interim agentic AI controls after sandbox-escape incidents — distinct identities, deny-by-default networking, and human-approval gates for high-risk actions · OpenAI previews Zero Data Retention with Private Safety Processing — detects cross-session misuse without OpenAI staff ever reading enterprise prompts · Telecomreuzen begraven strijdbijl: gedeeld glasvezelnetwerk moet dubbele graafwerken in België stoppen",
+    "date": "2026-08-22T06:00:00+02:00",
+    "guid": "update-2026-08-22",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-22/update-2026-08-22.mp3",
+    "bytes": 1785953,
+    "duration": 145
   }
 ]
