@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Looped Out — flaggen</title>
+<style>
+ body{font:17px/1.7 -apple-system,system-ui,sans-serif;max-width:820px;margin:0 auto;padding:0 16px 210px;color:#1a1a1a}
+ h1{font-size:20px;margin:14px 0 2px} .sub{color:#666;font-size:14px}
+ .bar{position:sticky;top:0;background:#fff;padding:10px 0;border-bottom:1px solid #eee;z-index:5}
+ audio{width:100%} .hint{color:#666;font-size:14px;margin:6px 0}
+ #t w{cursor:pointer;padding:1px 2px;border-radius:4px}
+ #t w.cur{background:#fde68a} #t w.flag{background:#fecaca;text-decoration:underline wavy #dc2626}
+ #t w.sel{outline:2px solid #2563eb;outline-offset:1px}
+ .panel{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid #ddd;max-height:52vh;overflow:auto;padding:10px 16px}
+ .panel h2{font-size:15px;margin:4px 0} .flag{border:1px solid #eee;border-radius:10px;padding:8px 10px;margin:8px 0}
+ .flag .w{font-weight:600} .t{color:#2563eb;font-variant-numeric:tabular-nums;cursor:pointer}
+ .rs button{border:1px solid #cbd5e1;background:#f8fafc;border-radius:7px;padding:3px 9px;margin:3px 4px 0 0;cursor:pointer;font-size:13px}
+ .rs button.sel{background:#2563eb;color:#fff;border-color:#2563eb}
+ .note{width:100%;margin-top:6px;padding:5px;border:1px solid #ddd;border-radius:7px}
+ .rm{float:right;color:#dc2626;cursor:pointer;border:0;background:none;font-size:16px}
+ button.big{background:#111;color:#fff;border:0;border-radius:10px;padding:9px 16px;font-size:15px;cursor:pointer}
+ #out{width:100%;height:80px;margin-top:8px;font:13px/1.5 ui-monospace,monospace;border:1px solid #ddd;border-radius:8px;padding:6px}
+ .ok{color:#16a34a;font-weight:600}
+</style></head><body>
+<h1 id="title">Looped Out — flaggen</h1>
+<div class="sub" id="sub">laden…</div>
+<div class="bar"><audio id="a" controls preload="auto"></audio>
+ <div class="hint"><b>Klik een woord</b> = herbeluister. <b>Dubbelklik</b> = flag (fout gehoord). Kies een reden, typ eventueel eigen tekst.</div></div>
+<div id="t"></div>
+<div class="panel">
+  <h2>Flags (<span id="cnt">0</span>) &nbsp; <button class="big" onclick="copyFlags()">Kopieer flags</button> <span id="msg"></span></h2>
+  <div id="list"></div>
+  <textarea id="out" readonly placeholder="Je flags verschijnen hier — kopieer ze en plak ze aan de assistent."></textarea>
+</div>
+<script>
+const REASONS=["uitspraak","pauze","getal","naam","anders"];
+let W=[], F={}, META={};
+const a=document.getElementById('a');
+function fmt(s){s=Math.max(0,s|0);return (s/60|0)+':'+String(s%60).padStart(2,'0')}
+function key(){return 'flags:'+(META.date||META.tag||'x')}
+async function load(){
+  const d=await (await fetch('latest.json?_='+Date.now())).json();
+  META=d; W=d.words||[];
+  a.src=d.mp3;
+  document.getElementById('sub').textContent=(d.title||'Looped Out')+' — '+(d.date||'')+' · dubbelklik de woorden die fout klinken';
+  try{F=JSON.parse(localStorage.getItem(key()))||{}}catch(e){F={}}
+  const t=document.getElementById('t'); t.innerHTML='';
+  W.forEach((w,i)=>{const e=document.createElement('w');e.textContent=w.text+' ';e.dataset.i=i;
+    e.onclick=()=>seek(i); e.ondblclick=()=>flag(i); t.appendChild(e);});
+  paint(); render();
+}
+a.addEventListener('timeupdate',()=>{
+  const ct=a.currentTime; let hit=-1;
+  for(let i=0;i<W.length;i++){ if(ct>=W[i].start-0.05 && ct<=W[i].end+0.05){hit=i;break} }
+  document.querySelectorAll('#t w').forEach(e=>e.classList.toggle('cur', +e.dataset.i===hit));
+});
+function seek(i){ a.currentTime=Math.max(0,W[i].start-0.4); a.play();
+  document.querySelectorAll('#t w').forEach(e=>e.classList.toggle('sel', +e.dataset.i===i)); }
+function flag(i){ if(F[i]){delete F[i]} else {F[i]={word:W[i].text,start:W[i].start,reason:'uitspraak',note:''};}
+  store(); paint(); render(); }
+function paint(){ document.querySelectorAll('#t w').forEach(e=>e.classList.toggle('flag', !!F[+e.dataset.i])); }
+function store(){ localStorage.setItem(key(), JSON.stringify(F)); buildOut(); }
+function render(){
+  const keys=Object.keys(F).map(Number).sort((x,y)=>F[x].start-F[y].start);
+  document.getElementById('cnt').textContent=keys.length;
+  const L=document.getElementById('list'); L.innerHTML='';
+  for(const i of keys){const f=F[i];const d=document.createElement('div');d.className='flag';
+    d.innerHTML=`<button class="rm" title="verwijder" onclick="flag(${i})">✕</button>`+
+      `<span class="t" onclick="a.currentTime=${Math.max(0,f.start-0.4)};a.play()">${fmt(f.start)}</span> `+
+      `<span class="w">${f.word}</span><div class="rs">`+
+      REASONS.map(r=>`<button class="${f.reason===r?'sel':''}" onclick="setr(${i},'${r}')">${r}</button>`).join('')+
+      `</div><input class="note" placeholder="eigen tekst (optioneel)" value="${(f.note||'').replace(/"/g,'&quot;')}" onchange="setn(${i},this.value)">`;
+    L.appendChild(d);}
+  buildOut();
+}
+function setr(i,r){F[i].reason=r;store();render()}
+function setn(i,v){F[i].note=v;store()}
+function buildOut(){
+  const keys=Object.keys(F).map(Number).sort((x,y)=>F[x].start-F[y].start);
+  let s=`Looped Out — ${META.date||''} — flags:\n`;
+  if(!keys.length) s+='(geen)';
+  for(const i of keys){const f=F[i]; s+=`[${fmt(f.start)}] ${f.word} — ${f.reason}${f.note?' — '+f.note:''}\n`;}
+  document.getElementById('out').value=s.trim();
+}
+async function copyFlags(){
+  const s=document.getElementById('out').value;
+  try{await navigator.clipboard.writeText(s); msg('Gekopieerd — plak het aan de assistent.');}
+  catch(e){document.getElementById('out').select(); msg('Selecteer + kopieer het tekstvak.');}
+}
+function msg(t){document.getElementById('msg').innerHTML='<span class="ok">'+t+'</span>';}
+load();
+</script></body></html>
