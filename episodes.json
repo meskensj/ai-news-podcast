@@ -124,5 +124,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-23/update-2026-08-23.mp3",
     "bytes": 1771593,
     "duration": 146
+  },
+  {
+    "title": "Looped Out — 2026-08-24",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-24. Anthropic targets end-of-August public S-1 filing — a $965B company forcing market reality-check on frontier AI economics · Nvidia in early talks to invest in or acquire Korean inference-chip startup Rebellions ($2.3B) — sovereignty angle adds regulatory complexity · Google Vertex AI hard-retires Claude 3 Haiku on August 23 — a live deprecation test for any client who missed the notice · Cloudflare ships x402 agent-payment protocol and Kitesurf browser runtime — agents can now autonomously spend money across 20+ vendors · Meta loses addictive-design trial — $400M-range verdict signals liability for algorithmic harm, a direct precedent for AI output governance · Tech press audit: AI vendors consistently upgrade 'preview' to stronger maturity labels in coverage — a systematic governance blind spot",
+    "date": "2026-08-24T06:00:00+02:00",
+    "guid": "update-2026-08-24",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-24/update-2026-08-24.mp3",
+    "bytes": 1867600,
+    "duration": 153
   }
 ]
