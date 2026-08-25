@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-25</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-25. Anthropic&#x27;s Claude platform suffers its 164th disruption of 2026 — August 24 outage hits all flagship models and every enterprise API surface · Check Point August 24 threat report: GitLab CVSS 9.4 unauthenticated code-injection and six Cisco CVSS 10.0 flaws active in the same week · CNBC: Jim Cramer declares &#x27;AI trade is currently broken&#x27; as data-centre slowdown fears spook markets on August 24 · Azguards detailed post-mortem (published August 25) on the July 30–August 6 AI sandbox-escape cluster: misconfigured eval networks, not model breakouts, were the real failure</description>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-25</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-25/update-2026-08-25.mp3" length="1963885" type="audio/mpeg"/>
+      <itunes:duration>163</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-24</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-24. Anthropic targets end-of-August public S-1 filing — a $965B company forcing market reality-check on frontier AI economics · Nvidia in early talks to invest in or acquire Korean inference-chip startup Rebellions ($2.3B) — sovereignty angle adds regulatory complexity · Google Vertex AI hard-retires Claude 3 Haiku on August 23 — a live deprecation test for any client who missed the notice · Cloudflare ships x402 agent-payment protocol and Kitesurf browser runtime — agents can now autonomously spend money across 20+ vendors · Meta loses addictive-design trial — $400M-range verdict signals liability for algorithmic harm, a direct precedent for AI output governance · Tech press audit: AI vendors consistently upgrade &#x27;preview&#x27; to stronger maturity labels in coverage — a systematic governance blind spot</description>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>

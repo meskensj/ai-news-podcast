@@ -133,5 +133,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-24/update-2026-08-24.mp3",
     "bytes": 1867600,
     "duration": 153
+  },
+  {
+    "title": "Looped Out — 2026-08-25",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-25. Anthropic's Claude platform suffers its 164th disruption of 2026 — August 24 outage hits all flagship models and every enterprise API surface · Check Point August 24 threat report: GitLab CVSS 9.4 unauthenticated code-injection and six Cisco CVSS 10.0 flaws active in the same week · CNBC: Jim Cramer declares 'AI trade is currently broken' as data-centre slowdown fears spook markets on August 24 · Azguards detailed post-mortem (published August 25) on the July 30–August 6 AI sandbox-escape cluster: misconfigured eval networks, not model breakouts, were the real failure",
+    "date": "2026-08-25T06:00:00+02:00",
+    "guid": "update-2026-08-25",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-25/update-2026-08-25.mp3",
+    "bytes": 1963885,
+    "duration": 163
   }
 ]
