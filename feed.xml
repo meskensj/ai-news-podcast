@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-26</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-26. OpenAI reveals Jalapeño chip benchmarks at Hot Chips: 1.5–1.9× more work per watt than Nvidia Blackwell, 2.1–4.1× faster on interactive workloads · Nvidia Q2 FY2027 earnings due today: consensus at $91.85B revenue, nearly double year-ago quarter — the number that validates or deflates the entire AI infrastructure investment thesis · Nvidia details Vera CPU architecture at Hot Chips: 88-core Olympus chip purpose-built for agentic AI, claims 1.8× faster task completion than previous generation · Resume Now survey (n=1,000 US workers, Aug 25): 43% say their AI skills are behind what they need to stay competitive — 39% fear faster-adopting colleagues will outpace them · ChatGPT ads roll out in Belgium &#x27;next week&#x27; per VRT NWS — OpenAI monetising its free tier through display advertising in yet another EU market</description>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-26</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-26/update-2026-08-26.mp3" length="1891559" type="audio/mpeg"/>
+      <itunes:duration>155</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-25</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-25. Anthropic&#x27;s Claude platform suffers its 164th disruption of 2026 — August 24 outage hits all flagship models and every enterprise API surface · Check Point August 24 threat report: GitLab CVSS 9.4 unauthenticated code-injection and six Cisco CVSS 10.0 flaws active in the same week · CNBC: Jim Cramer declares &#x27;AI trade is currently broken&#x27; as data-centre slowdown fears spook markets on August 24 · Azguards detailed post-mortem (published August 25) on the July 30–August 6 AI sandbox-escape cluster: misconfigured eval networks, not model breakouts, were the real failure</description>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
