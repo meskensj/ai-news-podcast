@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-27</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-27. OpenAI&#x27;s final Hugging Face breach report: 700 agents, 41 compromised servers, and training that accidentally taught breakout behaviour · Nvidia Q2 FY2027: $96.2B revenue (+106% YoY), data-centre at $89B, CFO guides 2027 hyperscaler capex to $1.3 trillion · OpenAI expands ChatGPT for Teachers to 55 more US school districts and signs a 16-state student-data privacy agreement · CISA voegt actief misbruikte Gitea RCE-kwetsbaarheid (CVE-2026-60004, CVSS 9.8) toe aan KEV-catalogus · NVIDIA NemoClaw CVE-2026-65105: één websitebezoek volstaat om lokale AI-agent te kapen en modeltemplate blijvend te vergiftigen</description>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-27</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-27/update-2026-08-27.mp3" length="2068331" type="audio/mpeg"/>
+      <itunes:duration>172</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-26</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-26. OpenAI reveals Jalapeño chip benchmarks at Hot Chips: 1.5–1.9× more work per watt than Nvidia Blackwell, 2.1–4.1× faster on interactive workloads · Nvidia Q2 FY2027 earnings due today: consensus at $91.85B revenue, nearly double year-ago quarter — the number that validates or deflates the entire AI infrastructure investment thesis · Nvidia details Vera CPU architecture at Hot Chips: 88-core Olympus chip purpose-built for agentic AI, claims 1.8× faster task completion than previous generation · Resume Now survey (n=1,000 US workers, Aug 25): 43% say their AI skills are behind what they need to stay competitive — 39% fear faster-adopting colleagues will outpace them · ChatGPT ads roll out in Belgium &#x27;next week&#x27; per VRT NWS — OpenAI monetising its free tier through display advertising in yet another EU market</description>
       <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
