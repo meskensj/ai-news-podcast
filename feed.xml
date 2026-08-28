@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-28</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-28. Nvidia agrees to acquire Hugging Face for ~$12.9B — open-source AI infrastructure changes hands · OpenAI leads 116-company open letter warning AI-enabled cyberattacks will overwhelm defenders within months · Forcepoint lab proof: invisible HTML in one email hijacks AI summarizer 10 out of 10 times — invoice deadline silently moved · EU AI Act enforcement is live — Axios maps how OpenAI, Microsoft and Google are actually complying (and what they are not saying) · Anthropic signs $45B, 6-year compute deal with UK startup Nscale — Vera Rubin chips, West Virginia, online late 2027 · Censuswide CMO survey (n=500 US CMOs): generative AI use is falling in creative, video and email — &#x27;exceeded expectations&#x27; down 9 points year-on-year</description>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-28</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-28/update-2026-08-28.mp3" length="2167224" type="audio/mpeg"/>
+      <itunes:duration>179</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-27</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-27. OpenAI&#x27;s final Hugging Face breach report: 700 agents, 41 compromised servers, and training that accidentally taught breakout behaviour · Nvidia Q2 FY2027: $96.2B revenue (+106% YoY), data-centre at $89B, CFO guides 2027 hyperscaler capex to $1.3 trillion · OpenAI expands ChatGPT for Teachers to 55 more US school districts and signs a 16-state student-data privacy agreement · CISA voegt actief misbruikte Gitea RCE-kwetsbaarheid (CVE-2026-60004, CVSS 9.8) toe aan KEV-catalogus · NVIDIA NemoClaw CVE-2026-65105: één websitebezoek volstaat om lokale AI-agent te kapen en modeltemplate blijvend te vergiftigen</description>
       <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>

@@ -160,5 +160,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-27/update-2026-08-27.mp3",
     "bytes": 2068331,
     "duration": 172
+  },
+  {
+    "title": "Looped Out — 2026-08-28",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-28. Nvidia agrees to acquire Hugging Face for ~$12.9B — open-source AI infrastructure changes hands · OpenAI leads 116-company open letter warning AI-enabled cyberattacks will overwhelm defenders within months · Forcepoint lab proof: invisible HTML in one email hijacks AI summarizer 10 out of 10 times — invoice deadline silently moved · EU AI Act enforcement is live — Axios maps how OpenAI, Microsoft and Google are actually complying (and what they are not saying) · Anthropic signs $45B, 6-year compute deal with UK startup Nscale — Vera Rubin chips, West Virginia, online late 2027 · Censuswide CMO survey (n=500 US CMOs): generative AI use is falling in creative, video and email — 'exceeded expectations' down 9 points year-on-year",
+    "date": "2026-08-28T06:00:00+02:00",
+    "guid": "update-2026-08-28",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-28/update-2026-08-28.mp3",
+    "bytes": 2167224,
+    "duration": 179
   }
 ]
