@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-29</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-29. Federal judge rules Pentagon&#x27;s blacklisting of Anthropic was illegal retaliation — First Amendment limits on AI procurement politics · Salesforce and Anthropic launch &#x27;Claudeforce&#x27; — CRM data and Claude fuse into a single agentic interface, betting enterprise UI becomes optional · Manchester Airports Group breach: 8.7 million customer records stolen from Wi-Fi and booking systems across three UK airports · UK actors demand legal protection against AI voice cloning — 80-signature open letter frames individual voice as protected identity · Intel slips Xeon 7 &#x27;Diamond Rapids&#x27; launch to 2027 — 256-core HPC chip misses its 2026 window as AI inference demand resets server roadmaps</description>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-29</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-29/update-2026-08-29.mp3" length="1893741" type="audio/mpeg"/>
+      <itunes:duration>156</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-28</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-28. Nvidia agrees to acquire Hugging Face for ~$12.9B — open-source AI infrastructure changes hands · OpenAI leads 116-company open letter warning AI-enabled cyberattacks will overwhelm defenders within months · Forcepoint lab proof: invisible HTML in one email hijacks AI summarizer 10 out of 10 times — invoice deadline silently moved · EU AI Act enforcement is live — Axios maps how OpenAI, Microsoft and Google are actually complying (and what they are not saying) · Anthropic signs $45B, 6-year compute deal with UK startup Nscale — Vera Rubin chips, West Virginia, online late 2027 · Censuswide CMO survey (n=500 US CMOs): generative AI use is falling in creative, video and email — &#x27;exceeded expectations&#x27; down 9 points year-on-year</description>
       <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>

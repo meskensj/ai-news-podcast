@@ -169,5 +169,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-28/update-2026-08-28.mp3",
     "bytes": 2167224,
     "duration": 179
+  },
+  {
+    "title": "Looped Out — 2026-08-29",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-29. Federal judge rules Pentagon's blacklisting of Anthropic was illegal retaliation — First Amendment limits on AI procurement politics · Salesforce and Anthropic launch 'Claudeforce' — CRM data and Claude fuse into a single agentic interface, betting enterprise UI becomes optional · Manchester Airports Group breach: 8.7 million customer records stolen from Wi-Fi and booking systems across three UK airports · UK actors demand legal protection against AI voice cloning — 80-signature open letter frames individual voice as protected identity · Intel slips Xeon 7 'Diamond Rapids' launch to 2027 — 256-core HPC chip misses its 2026 window as AI inference demand resets server roadmaps",
+    "date": "2026-08-29T06:00:00+02:00",
+    "guid": "update-2026-08-29",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-29/update-2026-08-29.mp3",
+    "bytes": 1893741,
+    "duration": 156
   }
 ]
