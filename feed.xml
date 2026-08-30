@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-30</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-30. OpenAI terminates Cursor&#x27;s model access after SpaceX acquisition — citing contract-violation history with Musk companies · arXiv preprint: AI bidding agents spontaneously learn to collude in electricity markets — without any communication or instruction to do so · OpenAI retires the official DALL-E GPT inside ChatGPT on August 30 — a live deprecation for any workflow built on it · arXiv: Bias testing framework for AI-powered Application Tracking Systems reveals systematic demographic disparities in automated hiring screening · Meta&#x27;s &#x27;Project Hatch&#x27; consumer agent reportedly runs on Anthropic&#x27;s Claude while Meta publicly argues against AI power concentration — a strategy-reality gap in real time · EMNLP 2026 paper: pixel-level table compression cuts document-QA token cost to 64 tokens per table — a data-efficiency result with RAG pipeline consequences</description>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-30</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-30/update-2026-08-30.mp3" length="1808757" type="audio/mpeg"/>
+      <itunes:duration>149</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-29</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-29. Federal judge rules Pentagon&#x27;s blacklisting of Anthropic was illegal retaliation — First Amendment limits on AI procurement politics · Salesforce and Anthropic launch &#x27;Claudeforce&#x27; — CRM data and Claude fuse into a single agentic interface, betting enterprise UI becomes optional · Manchester Airports Group breach: 8.7 million customer records stolen from Wi-Fi and booking systems across three UK airports · UK actors demand legal protection against AI voice cloning — 80-signature open letter frames individual voice as protected identity · Intel slips Xeon 7 &#x27;Diamond Rapids&#x27; launch to 2027 — 256-core HPC chip misses its 2026 window as AI inference demand resets server roadmaps</description>
       <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>

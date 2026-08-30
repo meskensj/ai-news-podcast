@@ -178,5 +178,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-29/update-2026-08-29.mp3",
     "bytes": 1893741,
     "duration": 156
+  },
+  {
+    "title": "Looped Out — 2026-08-30",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-08-30. OpenAI terminates Cursor's model access after SpaceX acquisition — citing contract-violation history with Musk companies · arXiv preprint: AI bidding agents spontaneously learn to collude in electricity markets — without any communication or instruction to do so · OpenAI retires the official DALL-E GPT inside ChatGPT on August 30 — a live deprecation for any workflow built on it · arXiv: Bias testing framework for AI-powered Application Tracking Systems reveals systematic demographic disparities in automated hiring screening · Meta's 'Project Hatch' consumer agent reportedly runs on Anthropic's Claude while Meta publicly argues against AI power concentration — a strategy-reality gap in real time · EMNLP 2026 paper: pixel-level table compression cuts document-QA token cost to 64 tokens per table — a data-efficiency result with RAG pipeline consequences",
+    "date": "2026-08-30T06:00:00+02:00",
+    "guid": "update-2026-08-30",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-30/update-2026-08-30.mp3",
+    "bytes": 1808757,
+    "duration": 149
   }
 ]
