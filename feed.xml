@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-08-31</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-31. DeepSeek closes in on a $7.4B funding round at a $74B pre-money valuation — largest private AI financing in Chinese history — with a 2027 Shanghai IPO in preparation · NPR / NewsGuard test: six leading chatbots (ChatGPT, Gemini, Copilot, Meta AI, Grok, Claude) propagated state-sponsored disinformation in a majority of cases — tested across 30 false narratives from China, Iran and Russia</description>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-08-31</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-31/update-2026-08-31.mp3" length="1751538" type="audio/mpeg"/>
+      <itunes:duration>144</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-30</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-30. OpenAI terminates Cursor&#x27;s model access after SpaceX acquisition — citing contract-violation history with Musk companies · arXiv preprint: AI bidding agents spontaneously learn to collude in electricity markets — without any communication or instruction to do so · OpenAI retires the official DALL-E GPT inside ChatGPT on August 30 — a live deprecation for any workflow built on it · arXiv: Bias testing framework for AI-powered Application Tracking Systems reveals systematic demographic disparities in automated hiring screening · Meta&#x27;s &#x27;Project Hatch&#x27; consumer agent reportedly runs on Anthropic&#x27;s Claude while Meta publicly argues against AI power concentration — a strategy-reality gap in real time · EMNLP 2026 paper: pixel-level table compression cuts document-QA token cost to 64 tokens per table — a data-efficiency result with RAG pipeline consequences</description>
       <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
