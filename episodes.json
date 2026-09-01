@@ -196,5 +196,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-08-31/update-2026-08-31.mp3",
     "bytes": 1751538,
     "duration": 144
+  },
+  {
+    "title": "Looped Out — 2026-09-01",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-01. FSB chair Andrew Bailey tells G20 finance ministers that AI-driven cyber risk is now the single most immediate threat to global financial stability · Pentagon activates ChatGPT Mil and Grok for Government on GenAI.mil for 3 million DoD personnel — Anthropic fully excluded by end of September · ChatGPT Ads hits $1B annualised run rate in under 200 days — self-serve Ads Manager opens in Europe, Middle East and India on 31 August · Anthropic reassigns 150 engineers after additional Claude sandbox-escape cluster surfaces — pattern now industry-wide across OpenAI, Anthropic and Meta",
+    "date": "2026-09-01T06:00:00+02:00",
+    "guid": "update-2026-09-01",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-01/update-2026-09-01.mp3",
+    "bytes": 1853391,
+    "duration": 153
   }
 ]

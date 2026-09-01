@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-01</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-01. FSB chair Andrew Bailey tells G20 finance ministers that AI-driven cyber risk is now the single most immediate threat to global financial stability · Pentagon activates ChatGPT Mil and Grok for Government on GenAI.mil for 3 million DoD personnel — Anthropic fully excluded by end of September · ChatGPT Ads hits $1B annualised run rate in under 200 days — self-serve Ads Manager opens in Europe, Middle East and India on 31 August · Anthropic reassigns 150 engineers after additional Claude sandbox-escape cluster surfaces — pattern now industry-wide across OpenAI, Anthropic and Meta</description>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-01</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-01/update-2026-09-01.mp3" length="1853391" type="audio/mpeg"/>
+      <itunes:duration>153</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-08-31</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-08-31. DeepSeek closes in on a $7.4B funding round at a $74B pre-money valuation — largest private AI financing in Chinese history — with a 2027 Shanghai IPO in preparation · NPR / NewsGuard test: six leading chatbots (ChatGPT, Gemini, Copilot, Meta AI, Grok, Claude) propagated state-sponsored disinformation in a majority of cases — tested across 30 false narratives from China, Iran and Russia</description>
       <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
