@@ -205,5 +205,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-01/update-2026-09-01.mp3",
     "bytes": 1853391,
     "duration": 153
+  },
+  {
+    "title": "Looped Out — 2026-09-02",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-02. Instagram makes AI-persona disclosure mandatory with algorithmic reach penalty for non-compliance · Manus AI formally resumes independent operations after China forced Meta to unwind its $2B acquisition · NIST and security industry publish new agent-identity guidance: treat AI agents as privileged users with just-in-time access",
+    "date": "2026-09-02T06:00:00+02:00",
+    "guid": "update-2026-09-02",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-02/update-2026-09-02.mp3",
+    "bytes": 1989945,
+    "duration": 165
   }
 ]
