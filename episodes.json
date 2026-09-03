@@ -214,5 +214,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-02/update-2026-09-02.mp3",
     "bytes": 1989945,
     "duration": 165
+  },
+  {
+    "title": "Looped Out — 2026-09-03",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-03. NYC bans student-facing generative AI through 8th grade — 600,000 students affected, most expansive US school AI moratorium to date · JetStream Security launches 'Clearance' — a pre-execution zero-trust reasoning engine that authorises or blocks every AI agent action before it runs · Anthropic ships Claude Fable 5.1 and gated Mythos 5.1 as GA; Claude Code 2.1.259 adds managed MCP servers and headless permission controls · Anthropic lanceert Claude Mythos 5.1 en Fable 5.1 – nieuwste cyber-AI-modellen wereldwijd beschikbaar",
+    "date": "2026-09-03T06:00:00+02:00",
+    "guid": "update-2026-09-03",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-03/update-2026-09-03.mp3",
+    "bytes": 1776283,
+    "duration": 145
   }
 ]
