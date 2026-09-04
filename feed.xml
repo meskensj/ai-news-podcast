@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-04</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-04. US DOJ formally backs OpenAI&#x27;s fair-use defence in NYT copyright case — first-ever federal government intervention in AI training litigation · EU AI Office begins its first wave of on-site audits of high-risk AI systems in September 2026 — 24 national market surveillance authorities mobilised · arXiv: EvalDetectBench shows frontier LLMs can detect when they are being evaluated — model rankings shift based on who generated the test transcripts · Red Hat CEO: AI has fundamentally changed open-source security — mass AI-powered vulnerability exploitation now outpaces enterprise patching cycles · Vermeende dataset met gegevens van 700.000 Belgische burgers te koop op cybercrimeforum</description>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-04</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-04/update-2026-09-04.mp3" length="2120044" type="audio/mpeg"/>
+      <itunes:duration>174</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-03</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-03. NYC bans student-facing generative AI through 8th grade — 600,000 students affected, most expansive US school AI moratorium to date · JetStream Security launches &#x27;Clearance&#x27; — a pre-execution zero-trust reasoning engine that authorises or blocks every AI agent action before it runs · Anthropic ships Claude Fable 5.1 and gated Mythos 5.1 as GA; Claude Code 2.1.259 adds managed MCP servers and headless permission controls · Anthropic lanceert Claude Mythos 5.1 en Fable 5.1 – nieuwste cyber-AI-modellen wereldwijd beschikbaar</description>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>

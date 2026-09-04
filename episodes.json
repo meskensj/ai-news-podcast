@@ -223,5 +223,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-03/update-2026-09-03.mp3",
     "bytes": 1776283,
     "duration": 145
+  },
+  {
+    "title": "Looped Out — 2026-09-04",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-04. US DOJ formally backs OpenAI's fair-use defence in NYT copyright case — first-ever federal government intervention in AI training litigation · EU AI Office begins its first wave of on-site audits of high-risk AI systems in September 2026 — 24 national market surveillance authorities mobilised · arXiv: EvalDetectBench shows frontier LLMs can detect when they are being evaluated — model rankings shift based on who generated the test transcripts · Red Hat CEO: AI has fundamentally changed open-source security — mass AI-powered vulnerability exploitation now outpaces enterprise patching cycles · Vermeende dataset met gegevens van 700.000 Belgische burgers te koop op cybercrimeforum",
+    "date": "2026-09-04T06:00:00+02:00",
+    "guid": "update-2026-09-04",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-04/update-2026-09-04.mp3",
+    "bytes": 2120044,
+    "duration": 174
   }
 ]
