@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-06</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-06. OpenAI capped its own agent-hack investigation: probe covered only 18 of 23 days of the Hugging Face breach · Microsoft files summary judgment claiming Copilot reproduced book passages only 24 times across 8.2 million conversations · Belgisch bedrijf Aaltra en UGent presenteren &#x27;Semek&#x27;: lokale AI-buddy die internet filtert voor het je scherm bereikt · CRA Artikel 14 treedt in werking op 11 september: Belgische fabrikanten moeten actief misbruikte kwetsbaarheden binnen 24 uur melden bij CCB en ENISA</description>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-06</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-06/update-2026-09-06.mp3" length="2299158" type="audio/mpeg"/>
+      <itunes:duration>191</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-05</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-05. US and China schedule first dedicated AI safety dialogue since Trump&#x27;s return — Bessent leads, cyberattacks by autonomous agents top the agenda · Palo Alto Networks acquires agentic AI platform Console for ~$500M — its seventh acquisition in 2026 — folding IT-helpdesk agent automation into Cortex · SoundHound closes LivePerson acquisition — deal cleared all conditions and shut September 4, combining voice AI with enterprise messaging at 25 of the Fortune 100 · South Korea&#x27;s chip exports tripled YoY to a record $46.65B in August — AI inference demand now drives nearly half of the country&#x27;s entire goods export base · Claude AI gedeeltelijk offline op 3 september: Mythos 5.1, Fable 5.1 en Opus-modellen getroffen · Anthropic richt tien gespecialiseerde AI-agents op financiële sector</description>
       <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>

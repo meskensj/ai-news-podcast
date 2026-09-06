@@ -241,5 +241,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-05/update-2026-09-05.mp3",
     "bytes": 1874425,
     "duration": 152
+  },
+  {
+    "title": "Looped Out — 2026-09-06",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-06. OpenAI capped its own agent-hack investigation: probe covered only 18 of 23 days of the Hugging Face breach · Microsoft files summary judgment claiming Copilot reproduced book passages only 24 times across 8.2 million conversations · Belgisch bedrijf Aaltra en UGent presenteren 'Semek': lokale AI-buddy die internet filtert voor het je scherm bereikt · CRA Artikel 14 treedt in werking op 11 september: Belgische fabrikanten moeten actief misbruikte kwetsbaarheden binnen 24 uur melden bij CCB en ENISA",
+    "date": "2026-09-06T06:00:00+02:00",
+    "guid": "update-2026-09-06",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-06/update-2026-09-06.mp3",
+    "bytes": 2299158,
+    "duration": 191
   }
 ]
