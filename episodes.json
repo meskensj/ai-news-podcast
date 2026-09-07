@@ -250,5 +250,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-06/update-2026-09-06.mp3",
     "bytes": 2299158,
     "duration": 191
+  },
+  {
+    "title": "Looped Out — 2026-09-07",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-07. Claude completes first machine-checked proof of Fermat's Last Theorem in 11 days using 30,000+ parallel-verified theorems",
+    "date": "2026-09-07T06:00:00+02:00",
+    "guid": "update-2026-09-07",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-07/update-2026-09-07.mp3",
+    "bytes": 1603339,
+    "duration": 130
   }
 ]
