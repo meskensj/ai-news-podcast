@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-08</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-08. LG smart-tv&#x27;s afluisteren en scannen thuisnetwerk: privacyramp voor miljoenen Europese gezinnen · Berlijn getroffen door ransomware-aanval: 1,4 miljoen overheidsdossiers gelekt op dark web · CrowdStrike zero-day gepubliceerd: privilege escalation naar SYSTEM-niveau mogelijk · Laurence Mathieu (NRB) verkozen tot Leading ICT Lady of the Year 2026 op She Goes ICT</description>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-08</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-08/update-2026-09-08.mp3" length="1871420" type="audio/mpeg"/>
+      <itunes:duration>153</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-07</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-07. Claude completes first machine-checked proof of Fermat&#x27;s Last Theorem in 11 days using 30,000+ parallel-verified theorems</description>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
