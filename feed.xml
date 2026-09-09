@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-09</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-09. Mistral closes €3B Series D — largest European private tech funding ever — pivoting to &#x27;neocloud&#x27; sovereign AI infrastructure · China&#x27;s MIIT publishes 15th Five-Year Plan: $532B to build 9,800 exaflops of AI compute by 2030 — on domestic chips · Apple&#x27;s September 9 &#x27;Surprise and Shine&#x27; event debuts Gemini-powered Siri and first foldable iPhone — Ternus era begins with a &#x27;build vs license&#x27; AI strategy on full display · GPAI systemic-risk providers face September 15 formal submission deadline to EU AI Office — red-teaming, energy disclosures, and copyright summaries all required · Mistral haalt €3 miljard op in recordronde voor Europese AI — ASML blijft ankeraan­deelhouder</description>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-09</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-09/update-2026-09-09.mp3" length="2495658" type="audio/mpeg"/>
+      <itunes:duration>210</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-08</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-08. LG smart-tv&#x27;s afluisteren en scannen thuisnetwerk: privacyramp voor miljoenen Europese gezinnen · Berlijn getroffen door ransomware-aanval: 1,4 miljoen overheidsdossiers gelekt op dark web · CrowdStrike zero-day gepubliceerd: privilege escalation naar SYSTEM-niveau mogelijk · Laurence Mathieu (NRB) verkozen tot Leading ICT Lady of the Year 2026 op She Goes ICT</description>
       <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
