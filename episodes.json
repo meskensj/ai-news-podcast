@@ -277,5 +277,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-09/update-2026-09-09.mp3",
     "bytes": 2495658,
     "duration": 210
+  },
+  {
+    "title": "Looped Out — 2026-09-10",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-10. NSA, CISA and FBI formally accuse six Chinese AI companies of industrial-scale model distillation — billions of tokens extracted from Claude, GPT, Gemini and Grok since late 2024 · OpenAI's internal multi-agent system solves Navier-Stokes Millennium Prize Problem in 88 hours using 10,000 parallel AI agents — proof machine-checked in Lean · Tech Transparency Project finds 332 AI-generated CSAM ads passed Meta's review process and ran across Facebook, Instagram, Threads and Messenger — US and Australian regulators open inquiries · Meta launches 'Muse' personal AI agent with access to email, calendar, payments and smart home — each instance runs in a dedicated cloud VM, operating in background without user presence · Bipartisan Policy Center September 2026 skills dashboard: job postings requiring AI skills up 165% year-on-year in the US — 'agentic AI' skill mentions grew 280% in one year per Stanford AI Index · Vier Vlaamse borstklinieken starten klinische evaluatie van AI-systeem voor gepersonaliseerde borstkankerbehandeling",
+    "date": "2026-09-10T06:00:00+02:00",
+    "guid": "update-2026-09-10",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-10/update-2026-09-10.mp3",
+    "bytes": 2234559,
+    "duration": 184
   }
 ]

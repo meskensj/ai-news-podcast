@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-10</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-10. NSA, CISA and FBI formally accuse six Chinese AI companies of industrial-scale model distillation — billions of tokens extracted from Claude, GPT, Gemini and Grok since late 2024 · OpenAI&#x27;s internal multi-agent system solves Navier-Stokes Millennium Prize Problem in 88 hours using 10,000 parallel AI agents — proof machine-checked in Lean · Tech Transparency Project finds 332 AI-generated CSAM ads passed Meta&#x27;s review process and ran across Facebook, Instagram, Threads and Messenger — US and Australian regulators open inquiries · Meta launches &#x27;Muse&#x27; personal AI agent with access to email, calendar, payments and smart home — each instance runs in a dedicated cloud VM, operating in background without user presence · Bipartisan Policy Center September 2026 skills dashboard: job postings requiring AI skills up 165% year-on-year in the US — &#x27;agentic AI&#x27; skill mentions grew 280% in one year per Stanford AI Index · Vier Vlaamse borstklinieken starten klinische evaluatie van AI-systeem voor gepersonaliseerde borstkankerbehandeling</description>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-10</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-10/update-2026-09-10.mp3" length="2234559" type="audio/mpeg"/>
+      <itunes:duration>184</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-09</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-09. Mistral closes €3B Series D — largest European private tech funding ever — pivoting to &#x27;neocloud&#x27; sovereign AI infrastructure · China&#x27;s MIIT publishes 15th Five-Year Plan: $532B to build 9,800 exaflops of AI compute by 2030 — on domestic chips · Apple&#x27;s September 9 &#x27;Surprise and Shine&#x27; event debuts Gemini-powered Siri and first foldable iPhone — Ternus era begins with a &#x27;build vs license&#x27; AI strategy on full display · GPAI systemic-risk providers face September 15 formal submission deadline to EU AI Office — red-teaming, energy disclosures, and copyright summaries all required · Mistral haalt €3 miljard op in recordronde voor Europese AI — ASML blijft ankeraan­deelhouder</description>
       <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
