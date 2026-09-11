@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-11</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-11. California signs first US laws requiring independent third-party AI audits — SB 813 and AB 1405 create a licensed-auditor registry · Anthropic&#x27;s September threat intelligence report: AI has collapsed the gap between state-sponsored attacks and lone-operator campaigns · OpenAI opens Agents API in public beta — managed Codex harness now available to all developers with zero extra API fee · Microsoft plans to triple data-centre capacity from 12 GW to 38 GW by 2032 — one-third AI-specific — after hardware shortages forced client turn-aways · Positron AI raises $875M at $5B valuation — memory-first inference chip startup 5× its valuation in seven months, challenging Nvidia&#x27;s HBM supply lock · OpenAI launches ChatGPT for Financial Services on GPT-6 Astra — pre-integrated data connectors for Bloomberg, PitchBook, LSEG, FactSet and S&amp;P, with citations and compliance controls</description>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-11</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-11/update-2026-09-11.mp3" length="1961922" type="audio/mpeg"/>
+      <itunes:duration>162</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-10</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-10. NSA, CISA and FBI formally accuse six Chinese AI companies of industrial-scale model distillation — billions of tokens extracted from Claude, GPT, Gemini and Grok since late 2024 · OpenAI&#x27;s internal multi-agent system solves Navier-Stokes Millennium Prize Problem in 88 hours using 10,000 parallel AI agents — proof machine-checked in Lean · Tech Transparency Project finds 332 AI-generated CSAM ads passed Meta&#x27;s review process and ran across Facebook, Instagram, Threads and Messenger — US and Australian regulators open inquiries · Meta launches &#x27;Muse&#x27; personal AI agent with access to email, calendar, payments and smart home — each instance runs in a dedicated cloud VM, operating in background without user presence · Bipartisan Policy Center September 2026 skills dashboard: job postings requiring AI skills up 165% year-on-year in the US — &#x27;agentic AI&#x27; skill mentions grew 280% in one year per Stanford AI Index · Vier Vlaamse borstklinieken starten klinische evaluatie van AI-systeem voor gepersonaliseerde borstkankerbehandeling</description>
       <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>

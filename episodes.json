@@ -286,5 +286,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-10/update-2026-09-10.mp3",
     "bytes": 2234559,
     "duration": 184
+  },
+  {
+    "title": "Looped Out — 2026-09-11",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-11. California signs first US laws requiring independent third-party AI audits — SB 813 and AB 1405 create a licensed-auditor registry · Anthropic's September threat intelligence report: AI has collapsed the gap between state-sponsored attacks and lone-operator campaigns · OpenAI opens Agents API in public beta — managed Codex harness now available to all developers with zero extra API fee · Microsoft plans to triple data-centre capacity from 12 GW to 38 GW by 2032 — one-third AI-specific — after hardware shortages forced client turn-aways · Positron AI raises $875M at $5B valuation — memory-first inference chip startup 5× its valuation in seven months, challenging Nvidia's HBM supply lock · OpenAI launches ChatGPT for Financial Services on GPT-6 Astra — pre-integrated data connectors for Bloomberg, PitchBook, LSEG, FactSet and S&P, with citations and compliance controls",
+    "date": "2026-09-11T06:00:00+02:00",
+    "guid": "update-2026-09-11",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-11/update-2026-09-11.mp3",
+    "bytes": 1961922,
+    "duration": 162
   }
 ]

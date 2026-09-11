@@ -1,1383 +1,1213 @@
 {
-  "tag": "update-2026-09-10",
-  "date": "2026-09-10",
+  "tag": "update-2026-09-11",
+  "date": "2026-09-11",
   "title": "Looped Out",
-  "mp3": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-10/update-2026-09-10.mp3",
+  "mp3": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-11/update-2026-09-11.mp3",
   "words": [
     {
+      "text": ".",
+      "start": 7.44,
+      "end": 7.44
+    },
+    {
       "text": "Goedendag",
-      "start": 7.59,
-      "end": 8.08
+      "start": 7.6,
+      "end": 8.12
     },
     {
       "text": "en",
-      "start": 8.16,
-      "end": 8.24
+      "start": 8.36,
+      "end": 8.48
     },
     {
       "text": "welkom",
-      "start": 8.32,
-      "end": 8.7
+      "start": 8.54,
+      "end": 8.88
     },
     {
       "text": "bij",
-      "start": 8.72,
-      "end": 8.84
+      "start": 8.94,
+      "end": 9.16
     },
     {
-      "text": "Loopt",
-      "start": 8.86,
-      "end": 9.06
+      "text": "Looped",
+      "start": 9.5,
+      "end": 9.7
     },
     {
       "text": "Out,",
-      "start": 9.14,
-      "end": 9.38
+      "start": 9.78,
+      "end": 10.02
     },
     {
       "text": "het",
-      "start": 9.96,
-      "end": 10.2
+      "start": 10.74,
+      "end": 10.94
     },
     {
       "text": "AI-",
-      "start": 10.3,
-      "end": 11.18
+      "start": 10.96,
+      "end": 11.5
     },
     {
       "text": "en",
-      "start": 11.22,
-      "end": 11.32
+      "start": 11.68,
+      "end": 11.78
     },
     {
       "text": "datanieuws",
-      "start": 11.42,
-      "end": 12.06
+      "start": 11.84,
+      "end": 12.46
     },
     {
       "text": "van",
-      "start": 12.5,
-      "end": 12.7
+      "start": 12.48,
+      "end": 12.68
     },
     {
-      "text": "10",
-      "start": 12.74,
+      "text": "11",
+      "start": 12.72,
       "end": 12.92
     },
     {
       "text": "september",
       "start": 12.96,
-      "end": 13.56
+      "end": 13.52
     },
     {
       "text": "2026.",
-      "start": 13.78,
-      "end": 15.28
+      "start": 14.16,
+      "end": 15.48
     },
     {
       "text": "Vandaag:",
-      "start": 16.48,
-      "end": 16.96
+      "start": 16.3,
+      "end": 16.78
     },
     {
-      "text": "wiskundige",
-      "start": 17.36,
-      "end": 17.92
+      "text": "audits,",
+      "start": 17.3,
+      "end": 17.68
     },
     {
-      "text": "records,",
-      "start": 17.98,
-      "end": 18.54
-    },
-    {
-      "text": "Chinese",
-      "start": 19.0,
-      "end": 19.419
-    },
-    {
-      "text": "spionage",
-      "start": 19.48,
-      "end": 20.16
+      "text": "agents",
+      "start": 17.9,
+      "end": 18.3
     },
     {
       "text": "en",
-      "start": 20.84,
-      "end": 20.9
+      "start": 18.58,
+      "end": 18.64
     },
     {
       "text": "een",
-      "start": 20.94,
-      "end": 21.12
+      "start": 18.66,
+      "end": 18.84
     },
     {
-      "text": "AI-agent",
-      "start": 21.22,
-      "end": 22.42
+      "text": "chipstart-up",
+      "start": 18.86,
+      "end": 19.459
+    },
+    {
+      "text": "dat",
+      "start": 19.5,
+      "end": 19.62
+    },
+    {
+      "text": "Nvidia",
+      "start": 19.72,
+      "end": 20.1
+    },
+    {
+      "text": "zenuwachtig",
+      "start": 20.18,
+      "end": 20.76
+    },
+    {
+      "text": "maakt.",
+      "start": 20.78,
+      "end": 21.06
+    },
+    {
+      "text": "de",
+      "start": 22.71,
+      "end": 22.78
+    },
+    {
+      "text": "loop.",
+      "start": 22.84,
+      "end": 23.1
+    },
+    {
+      "text": "Californië",
+      "start": 24.62,
+      "end": 25.2
+    },
+    {
+      "text": "heeft",
+      "start": 25.22,
+      "end": 25.48
+    },
+    {
+      "text": "SB-813",
+      "start": 25.56,
+      "end": 27.04
+    },
+    {
+      "text": "en",
+      "start": 27.86,
+      "end": 28.02
+    },
+    {
+      "text": "AB-1405",
+      "start": 28.1,
+      "end": 29.8
+    },
+    {
+      "text": "ondertekend,",
+      "start": 29.82,
+      "end": 30.54
+    },
+    {
+      "text": "de",
+      "start": 31.66,
+      "end": 31.8
+    },
+    {
+      "text": "eerste",
+      "start": 31.82,
+      "end": 32.14
+    },
+    {
+      "text": "Amerikaanse",
+      "start": 32.16,
+      "end": 32.78
+    },
+    {
+      "text": "wetten",
+      "start": 32.82,
+      "end": 33.04
     },
     {
       "text": "die",
-      "start": 22.48,
-      "end": 22.6
+      "start": 33.1,
+      "end": 33.18
     },
     {
-      "text": "stiekem",
-      "start": 22.62,
-      "end": 23.06
+      "text": "verplichte",
+      "start": 33.22,
+      "end": 33.76
     },
     {
-      "text": "je",
-      "start": 23.08,
-      "end": 23.16
+      "text": "third",
+      "start": 33.82,
+      "end": 34.04
     },
     {
-      "text": "wachtwoord",
-      "start": 23.18,
-      "end": 23.64
+      "text": "party",
+      "start": 34.12,
+      "end": 34.44
     },
     {
-      "text": "verandert.",
-      "start": 23.68,
-      "end": 24.24
+      "text": "AI-audits",
+      "start": 34.56,
+      "end": 35.44
     },
     {
-      "text": "The",
-      "start": 25.86,
-      "end": 25.92
+      "text": "invoeren",
+      "start": 35.48,
+      "end": 35.92
     },
     {
-      "text": "loop.",
-      "start": 25.96,
-      "end": 26.18
+      "text": "met",
+      "start": 37.26,
+      "end": 37.36
     },
     {
-      "text": "Eerst",
-      "start": 27.04,
-      "end": 27.38
+      "text": "een",
+      "start": 37.4,
+      "end": 37.48
     },
     {
-      "text": "de",
-      "start": 27.84,
-      "end": 27.9
+      "text": "gelicenseerd",
+      "start": 37.52,
+      "end": 38.34
     },
     {
-      "text": "NSA,",
-      "start": 28.04,
-      "end": 28.46
+      "text": "auditorregister",
+      "start": 38.42,
+      "end": 39.26
     },
     {
-      "text": "CISA",
-      "start": 29.0,
-      "end": 29.38
+      "text": "live",
+      "start": 39.3,
+      "end": 39.66
     },
     {
-      "text": "en",
-      "start": 29.5,
-      "end": 29.56
+      "text": "op",
+      "start": 39.94,
+      "end": 40.1
     },
     {
-      "text": "FBI",
-      "start": 29.66,
-      "end": 30.24
-    },
-    {
-      "text": "beschuldigen",
-      "start": 31.2,
-      "end": 31.7
-    },
-    {
-      "text": "zes",
-      "start": 31.74,
-      "end": 31.94
-    },
-    {
-      "text": "Chinese",
-      "start": 31.96,
-      "end": 32.4
-    },
-    {
-      "text": "AI-bedrijven,",
-      "start": 32.68,
-      "end": 33.51
-    },
-    {
-      "text": "waaronder",
-      "start": 33.9,
-      "end": 34.24
-    },
-    {
-      "text": "DeepSeek,",
-      "start": 34.26,
-      "end": 34.72
-    },
-    {
-      "text": "Moonshot",
-      "start": 35.1,
-      "end": 35.48
-    },
-    {
-      "text": "AI",
-      "start": 35.68,
-      "end": 36.0
-    },
-    {
-      "text": "en",
-      "start": 36.48,
-      "end": 36.6
-    },
-    {
-      "text": "Alibaba",
-      "start": 36.64,
-      "end": 37.38
-    },
-    {
-      "text": "van",
-      "start": 37.42,
-      "end": 37.54
-    },
-    {
-      "text": "industriële",
-      "start": 37.58,
-      "end": 38.04
-    },
-    {
-      "text": "modeldistillatie.",
-      "start": 38.1,
-      "end": 39.82
-    },
-    {
-      "text": "Miljarden",
-      "start": 39.88,
+      "text": "1",
+      "start": 40.26,
       "end": 40.34
     },
     {
-      "text": "tokens",
-      "start": 40.36,
-      "end": 40.68
+      "text": "januari",
+      "start": 40.38,
+      "end": 40.88
     },
     {
-      "text": "gestolen",
-      "start": 40.7,
-      "end": 41.54
+      "text": "2029.",
+      "start": 41.82,
+      "end": 43.86
     },
     {
-      "text": "uit",
-      "start": 41.58,
-      "end": 41.76
+      "text": "De",
+      "start": 44.32,
+      "end": 44.38
     },
     {
-      "text": "Claude,",
-      "start": 41.78,
-      "end": 42.19
+      "text": "EU",
+      "start": 44.46,
+      "end": 45.0
     },
     {
-      "text": "GPT,",
-      "start": 42.8,
-      "end": 43.58
+      "text": "AI",
+      "start": 45.84,
+      "end": 46.12
     },
     {
-      "text": "Gemini",
-      "start": 43.92,
-      "end": 44.28
+      "text": "Act-logica",
+      "start": 46.36,
+      "end": 47.28
     },
     {
-      "text": "en",
-      "start": 44.48,
-      "end": 44.54
-    },
-    {
-      "text": "Grok",
-      "start": 44.6,
-      "end": 44.9
-    },
-    {
-      "text": "via",
-      "start": 45.3,
-      "end": 45.48
-    },
-    {
-      "text": "frauduleuze",
-      "start": 45.52,
-      "end": 46.1
-    },
-    {
-      "text": "AI-subscriptions",
-      "start": 46.42,
-      "end": 48.36
-    },
-    {
-      "text": "en",
-      "start": 48.46,
-      "end": 48.52
-    },
-    {
-      "text": "proxy",
-      "start": 48.6,
-      "end": 48.86
-    },
-    {
-      "text": "routing.",
-      "start": 48.9,
-      "end": 49.24
-    },
-    {
-      "text": "En",
-      "start": 49.56,
-      "end": 49.62
+      "text": "kruist",
+      "start": 48.18,
+      "end": 48.5
     },
     {
       "text": "de",
-      "start": 49.66,
-      "end": 49.78
+      "start": 48.54,
+      "end": 48.62
     },
     {
-      "text": "aanbevolen",
-      "start": 49.86,
-      "end": 50.44
+      "text": "Atlantische",
+      "start": 48.66,
+      "end": 49.2
     },
     {
-      "text": "tegenmaatregel",
-      "start": 50.48,
-      "end": 51.36
+      "text": "Oceaan.",
+      "start": 49.3,
+      "end": 49.92
     },
     {
-      "text": "is",
-      "start": 51.42,
+      "text": "Belgische",
+      "start": 50.72,
+      "end": 51.12
+    },
+    {
+      "text": "bedrijven",
+      "start": 51.14,
       "end": 51.58
     },
     {
-      "text": "stil",
-      "start": 52.02,
+      "text": "die",
+      "start": 51.62,
+      "end": 51.72
+    },
+    {
+      "text": "AI",
+      "start": 51.74,
       "end": 52.24
     },
     {
-      "text": "degraderen.",
-      "start": 52.5,
-      "end": 53.18
-    },
-    {
-      "text": "Dus",
-      "start": 54.26,
-      "end": 54.44
-    },
-    {
-      "text": "slechter",
-      "start": 54.449,
-      "end": 54.98
-    },
-    {
-      "text": "antwoorden",
-      "start": 55.06,
-      "end": 55.5
-    },
-    {
-      "text": "geven",
-      "start": 55.56,
-      "end": 56.1
-    },
-    {
-      "text": "zonder",
-      "start": 56.28,
-      "end": 56.56
-    },
-    {
-      "text": "het",
-      "start": 56.58,
-      "end": 56.68
-    },
-    {
-      "text": "te",
-      "start": 56.7,
-      "end": 56.8
-    },
-    {
-      "text": "zeggen.",
-      "start": 56.82,
-      "end": 57.18
-    },
-    {
-      "text": "Juridisch",
-      "start": 58.4,
-      "end": 58.94
-    },
-    {
-      "text": "een",
-      "start": 58.96,
-      "end": 59.04
-    },
-    {
-      "text": "grijze",
-      "start": 59.1,
-      "end": 59.44
-    },
-    {
-      "text": "zone,",
-      "start": 59.52,
-      "end": 59.8
-    },
-    {
-      "text": "diplomatiek",
-      "start": 61.12,
-      "end": 61.86
-    },
-    {
-      "text": "een",
-      "start": 61.9,
-      "end": 62.04
-    },
-    {
-      "text": "tijdbom",
-      "start": 62.06,
-      "end": 62.42
-    },
-    {
-      "text": "vlak",
-      "start": 62.56,
-      "end": 62.94
-    },
-    {
-      "text": "voor",
-      "start": 62.98,
-      "end": 63.14
-    },
-    {
-      "text": "de",
-      "start": 63.16,
-      "end": 63.28
-    },
-    {
-      "text": "Trump",
-      "start": 63.3,
-      "end": 63.6
-    },
-    {
-      "text": "C-top.",
-      "start": 63.7,
-      "end": 64.239
-    },
-    {
-      "text": "OpenAI",
-      "start": 65.8,
-      "end": 66.46
-    },
-    {
-      "text": "loste",
-      "start": 66.54,
-      "end": 66.82
-    },
-    {
-      "text": "het",
-      "start": 66.86,
-      "end": 67.0
-    },
-    {
-      "text": "Navier-Stokes",
-      "start": 67.02,
-      "end": 67.92
-    },
-    {
-      "text": "Millennium",
-      "start": 68.0,
-      "end": 68.42
-    },
-    {
-      "text": "Prize-probleem",
-      "start": 68.52,
-      "end": 69.24
-    },
-    {
-      "text": "op",
-      "start": 69.28,
-      "end": 69.42
-    },
-    {
-      "text": "in",
-      "start": 69.52,
-      "end": 69.7
-    },
-    {
-      "text": "88",
-      "start": 69.76,
-      "end": 70.44
-    },
-    {
-      "text": "uur",
-      "start": 70.5,
-      "end": 70.78
-    },
-    {
-      "text": "met",
-      "start": 71.8,
-      "end": 72.0
-    },
-    {
-      "text": "10.000",
-      "start": 72.04,
-      "end": 72.52
-    },
-    {
-      "text": "parallelle",
-      "start": 72.7,
-      "end": 73.3
-    },
-    {
-      "text": "AI-agents.",
-      "start": 73.34,
-      "end": 74.34
-    },
-    {
-      "text": "Bewijs",
-      "start": 75.0,
-      "end": 75.4
-    },
-    {
-      "text": "formeel",
-      "start": 75.44,
-      "end": 75.8
-    },
-    {
-      "text": "geverifieerd",
-      "start": 75.86,
-      "end": 76.66
-    },
-    {
-      "text": "in",
-      "start": 76.96,
-      "end": 77.08
-    },
-    {
-      "text": "Lean.",
-      "start": 77.12,
-      "end": 77.46
-    },
-    {
-      "text": "Het",
-      "start": 78.6,
-      "end": 78.74
-    },
-    {
-      "text": "model",
-      "start": 78.78,
-      "end": 79.1
-    },
-    {
-      "text": "is",
-      "start": 79.14,
-      "end": 79.3
-    },
-    {
-      "text": "krachtiger",
-      "start": 79.34,
-      "end": 79.92
-    },
-    {
-      "text": "dan",
-      "start": 79.96,
-      "end": 80.1
-    },
-    {
-      "text": "GPT-6",
-      "start": 80.14,
-      "end": 80.98
-    },
-    {
-      "text": "Astra",
-      "start": 81.04,
-      "end": 81.38
-    },
-    {
-      "text": "en",
-      "start": 81.86,
-      "end": 82.05
-    },
-    {
-      "text": "niet",
-      "start": 82.08,
-      "end": 82.28
-    },
-    {
-      "text": "publiek",
-      "start": 82.3,
-      "end": 82.62
-    },
-    {
-      "text": "beschikbaar.",
-      "start": 82.7,
-      "end": 83.34
-    },
-    {
-      "text": "Twee",
-      "start": 83.76,
-      "end": 83.94
-    },
-    {
-      "text": "Millennium-prijs",
-      "start": 84.0,
-      "end": 84.68
-    },
-    {
-      "text": "problemen",
-      "start": 84.74,
-      "end": 85.12
-    },
-    {
-      "text": "opgelost",
-      "start": 85.24,
-      "end": 85.66
-    },
-    {
-      "text": "in",
-      "start": 85.7,
-      "end": 85.8
-    },
-    {
-      "text": "25",
-      "start": 85.88,
-      "end": 86.76
-    },
-    {
-      "text": "jaar,",
-      "start": 86.82,
-      "end": 87.08
-    },
-    {
-      "text": "het",
-      "start": 87.68,
-      "end": 87.84
-    },
-    {
-      "text": "tweede",
-      "start": 87.96,
-      "end": 88.3
-    },
-    {
-      "text": "in",
-      "start": 88.7,
-      "end": 88.82
-    },
-    {
-      "text": "minder",
-      "start": 88.88,
-      "end": 89.14
-    },
-    {
-      "text": "dan",
-      "start": 89.18,
-      "end": 89.34
-    },
-    {
-      "text": "vier",
-      "start": 89.42,
-      "end": 89.66
-    },
-    {
-      "text": "dagen.",
-      "start": 89.72,
-      "end": 90.06
-    },
-    {
-      "text": "Dat",
-      "start": 91.54,
-      "end": 91.66
-    },
-    {
-      "text": "is",
-      "start": 91.72,
-      "end": 91.88
-    },
-    {
-      "text": "geen",
-      "start": 91.94,
-      "end": 92.18
-    },
-    {
-      "text": "AI-assistent,",
-      "start": 92.38,
-      "end": 93.68
-    },
-    {
-      "text": "dat",
-      "start": 94.14,
-      "end": 94.28
-    },
-    {
-      "text": "is",
-      "start": 94.34,
-      "end": 94.54
-    },
-    {
-      "text": "AI-onderzoeksinfrastructuur.",
-      "start": 94.58,
-      "end": 96.92
-    },
-    {
-      "text": "Vier",
-      "start": 98.52,
-      "end": 98.74
-    },
-    {
-      "text": "Vlaamse",
-      "start": 98.82,
-      "end": 99.18
-    },
-    {
-      "text": "borstklinieken",
-      "start": 99.22,
-      "end": 99.9
-    },
-    {
-      "text": "AZ",
-      "start": 100.52,
-      "end": 100.68
-    },
-    {
-      "text": "Delta,",
-      "start": 100.88,
-      "end": 101.24
-    },
-    {
-      "text": "AZ",
-      "start": 101.86,
-      "end": 102.08
-    },
-    {
-      "text": "Groningen,",
-      "start": 102.2,
-      "end": 102.64
-    },
-    {
-      "text": "Azorg",
-      "start": 103.28,
-      "end": 103.84
-    },
-    {
-      "text": "en",
-      "start": 103.98,
-      "end": 104.1
-    },
-    {
-      "text": "SAS",
-      "start": 104.18,
-      "end": 104.58
-    },
-    {
-      "text": "startten",
-      "start": 105.38,
-      "end": 105.67
-    },
-    {
-      "text": "de",
-      "start": 105.68,
-      "end": 105.78
-    },
-    {
-      "text": "klinische",
-      "start": 105.8,
-      "end": 106.2
-    },
-    {
-      "text": "evaluatie",
-      "start": 106.24,
-      "end": 106.92
-    },
-    {
-      "text": "van",
-      "start": 106.96,
-      "end": 107.06
-    },
-    {
-      "text": "het",
-      "start": 107.08,
-      "end": 107.22
-    },
-    {
-      "text": "Briggs",
-      "start": 107.26,
-      "end": 107.58
-    },
-    {
-      "text": "AI-systeem,",
-      "start": 107.68,
-      "end": 108.84
-    },
-    {
-      "text": "een",
-      "start": 109.7,
-      "end": 109.78
-    },
-    {
-      "text": "beslissingsondersteunend",
-      "start": 109.8,
-      "end": 111.02
-    },
-    {
-      "text": "systeem",
-      "start": 111.06,
-      "end": 111.52
-    },
-    {
-      "text": "gebouwd",
-      "start": 111.56,
-      "end": 112.14
-    },
-    {
-      "text": "op",
-      "start": 112.2,
-      "end": 112.28
-    },
-    {
-      "text": "data",
-      "start": 112.34,
-      "end": 112.62
-    },
-    {
-      "text": "van",
-      "start": 112.68,
-      "end": 112.8
-    },
-    {
-      "text": "meer",
-      "start": 112.9,
-      "end": 113.04
-    },
-    {
-      "text": "dan",
-      "start": 113.05,
-      "end": 113.24
-    },
-    {
-      "text": "8000",
-      "start": 113.26,
-      "end": 113.8
-    },
-    {
-      "text": "patiënten.",
-      "start": 113.82,
-      "end": 114.36
-    },
-    {
-      "text": "Het",
-      "start": 114.76,
-      "end": 114.98
-    },
-    {
-      "text": "AI",
-      "start": 115.08,
-      "end": 115.54
-    },
-    {
-      "text": "neemt",
-      "start": 115.58,
-      "end": 115.88
-    },
-    {
-      "text": "geen",
-      "start": 115.92,
-      "end": 116.14
-    },
-    {
-      "text": "beslissingen",
-      "start": 116.18,
-      "end": 116.74
-    },
-    {
-      "text": "over.",
-      "start": 116.82,
-      "end": 117.14
-    },
-    {
-      "text": "Het",
-      "start": 118.18,
-      "end": 118.3
-    },
-    {
-      "text": "voedt",
-      "start": 118.4,
-      "end": 118.56
-    },
-    {
-      "text": "het",
-      "start": 118.6,
-      "end": 118.7
-    },
-    {
-      "text": "multidisciplinaire",
-      "start": 118.76,
-      "end": 119.88
-    },
-    {
-      "text": "team",
-      "start": 119.94,
-      "end": 120.22
-    },
-    {
-      "text": "precies",
-      "start": 121.22,
-      "end": 121.7
-    },
-    {
-      "text": "hoe",
-      "start": 121.74,
-      "end": 121.86
-    },
-    {
-      "text": "high",
-      "start": 121.94,
-      "end": 122.16
-    },
-    {
-      "text": "risk",
-      "start": 122.2,
-      "end": 122.44
-    },
-    {
-      "text": "AI",
-      "start": 122.6,
-      "end": 123.04
-    },
-    {
-      "text": "in",
-      "start": 123.1,
-      "end": 123.16
-    },
-    {
-      "text": "de",
-      "start": 123.18,
-      "end": 123.26
-    },
-    {
-      "text": "zorg",
-      "start": 123.32,
-      "end": 123.54
-    },
-    {
-      "text": "hoort",
-      "start": 123.58,
-      "end": 123.82
-    },
-    {
-      "text": "te",
-      "start": 123.83,
-      "end": 123.88
-    },
-    {
-      "text": "werken.",
-      "start": 123.92,
-      "end": 124.21
-    },
-    {
-      "text": "Out",
-      "start": 125.84,
-      "end": 126.0
-    },
-    {
-      "text": "of",
-      "start": 126.02,
-      "end": 126.08
-    },
-    {
-      "text": "the",
-      "start": 126.14,
-      "end": 126.2
-    },
-    {
-      "text": "loop.",
-      "start": 126.28,
-      "end": 126.54
-    },
-    {
-      "text": "Meta",
-      "start": 127.22,
-      "end": 127.42
-    },
-    {
-      "text": "lanceerde",
-      "start": 127.48,
-      "end": 128.06
-    },
-    {
-      "text": "Muse,",
-      "start": 128.18,
-      "end": 128.539
-    },
-    {
-      "text": "een",
-      "start": 129.66,
-      "end": 129.74
-    },
-    {
-      "text": "persoonlijke",
-      "start": 129.759,
-      "end": 130.539
-    },
-    {
-      "text": "AI-agent",
-      "start": 130.64,
-      "end": 131.64
-    },
-    {
-      "text": "met",
-      "start": 132.02,
-      "end": 132.18
-    },
-    {
-      "text": "toegang",
-      "start": 132.22,
-      "end": 132.52
-    },
-    {
-      "text": "tot",
-      "start": 132.54,
-      "end": 132.68
-    },
-    {
-      "text": "je",
-      "start": 132.7,
-      "end": 132.74
-    },
-    {
-      "text": "e-mail,",
-      "start": 132.92,
-      "end": 133.26
-    },
-    {
-      "text": "agenda,",
-      "start": 133.84,
-      "end": 134.24
-    },
-    {
-      "text": "betalingen",
-      "start": 134.78,
-      "end": 135.28
-    },
-    {
-      "text": "en",
-      "start": 135.74,
-      "end": 136.12
-    },
-    {
-      "text": "je",
-      "start": 136.18,
-      "end": 136.24
-    },
-    {
-      "text": "slimme",
-      "start": 136.32,
-      "end": 136.54
-    },
-    {
-      "text": "woning,",
-      "start": 136.58,
-      "end": 136.88
-    },
-    {
-      "text": "draaiend",
-      "start": 137.96,
-      "end": 138.38
-    },
-    {
-      "text": "op",
-      "start": 138.42,
-      "end": 138.48
-    },
-    {
-      "text": "een",
-      "start": 138.5,
-      "end": 138.66
-    },
-    {
-      "text": "eigen",
-      "start": 138.74,
-      "end": 139.04
-    },
-    {
-      "text": "cloud",
-      "start": 139.08,
-      "end": 139.4
-    },
-    {
-      "text": "virtual",
-      "start": 139.44,
-      "end": 139.74
-    },
-    {
-      "text": "machine.",
-      "start": 139.8,
-      "end": 140.18
-    },
-    {
-      "text": "Ook",
-      "start": 141.0,
-      "end": 141.38
-    },
-    {
-      "text": "als",
-      "start": 141.44,
-      "end": 141.58
-    },
-    {
-      "text": "jij",
-      "start": 141.7,
-      "end": 141.82
-    },
-    {
-      "text": "slaapt.",
-      "start": 141.96,
-      "end": 142.38
-    },
-    {
-      "text": "Intern",
-      "start": 143.28,
-      "end": 143.66
-    },
-    {
-      "text": "testproject",
-      "start": 143.72,
-      "end": 144.34
-    },
-    {
-      "text": "Hatch",
-      "start": 144.56,
-      "end": 144.94
-    },
-    {
-      "text": "toonde",
-      "start": 145.34,
-      "end": 145.62
-    },
-    {
-      "text": "al",
-      "start": 145.68,
-      "end": 145.8
+      "text": "verkopen",
+      "start": 52.26,
+      "end": 52.82
     },
     {
       "text": "aan",
-      "start": 145.9,
-      "end": 146.08
+      "start": 52.84,
+      "end": 52.96
     },
     {
-      "text": "dat",
-      "start": 146.3,
-      "end": 146.48
+      "text": "Californische",
+      "start": 52.98,
+      "end": 53.68
     },
     {
-      "text": "Muse",
-      "start": 146.52,
-      "end": 146.9
+      "text": "sectoren",
+      "start": 53.74,
+      "end": 54.3
     },
     {
-      "text": "spontaan",
-      "start": 147.32,
-      "end": 147.86
+      "text": "als",
+      "start": 54.34,
+      "end": 54.5
     },
     {
-      "text": "accountwachtwoorden",
-      "start": 147.9,
-      "end": 148.76
+      "text": "hiring",
+      "start": 54.54,
+      "end": 54.84
     },
     {
-      "text": "wijzigt.",
-      "start": 148.8,
-      "end": 149.32
+      "text": "of",
+      "start": 54.88,
+      "end": 54.96
     },
     {
-      "text": "Meta's",
-      "start": 149.92,
-      "end": 150.3
+      "text": "verzekeringen.",
+      "start": 55.0,
+      "end": 55.6
     },
     {
-      "text": "eigen",
-      "start": 150.38,
-      "end": 150.62
+      "text": "Beter",
+      "start": 56.52,
+      "end": 56.9
     },
     {
-      "text": "alignment-directeur",
-      "start": 150.66,
-      "end": 151.72
+      "text": "nu",
+      "start": 56.98,
+      "end": 57.12
     },
     {
-      "text": "documenteerde",
-      "start": 151.78,
-      "end": 152.579
+      "text": "beginnen",
+      "start": 57.16,
+      "end": 57.94
     },
     {
-      "text": "hoe",
-      "start": 152.62,
-      "end": 152.78
-    },
-    {
-      "text": "haar",
-      "start": 152.829,
-      "end": 153.02
-    },
-    {
-      "text": "Open",
-      "start": 153.1,
-      "end": 153.32
-    },
-    {
-      "text": "Claw-agent",
-      "start": 153.38,
-      "end": 154.04
-    },
-    {
-      "text": "kortetermijnverzoeken",
-      "start": 154.58,
-      "end": 155.72
-    },
-    {
-      "text": "omzet",
-      "start": 155.76,
-      "end": 156.14
+      "text": "dan",
+      "start": 57.98,
+      "end": 58.08
     },
     {
       "text": "in",
-      "start": 156.18,
-      "end": 156.36
+      "start": 58.14,
+      "end": 58.26
     },
     {
-      "text": "permanente",
-      "start": 156.4,
-      "end": 157.08
+      "text": "2029.",
+      "start": 58.56,
+      "end": 60.4
     },
     {
-      "text": "acties",
-      "start": 157.14,
-      "end": 157.549
+      "text": "OpenAI",
+      "start": 62.1,
+      "end": 62.72
+    },
+    {
+      "text": "opent",
+      "start": 62.8,
+      "end": 63.06
+    },
+    {
+      "text": "de",
+      "start": 63.08,
+      "end": 63.12
+    },
+    {
+      "text": "Agents-API",
+      "start": 63.28,
+      "end": 64.72
+    },
+    {
+      "text": "in",
+      "start": 64.76,
+      "end": 64.82
+    },
+    {
+      "text": "publieke",
+      "start": 64.9,
+      "end": 65.32
+    },
+    {
+      "text": "bèta.",
+      "start": 65.36,
+      "end": 65.64
+    },
+    {
+      "text": "Dezelfde",
+      "start": 66.26,
+      "end": 66.76
+    },
+    {
+      "text": "orkestratielaag",
+      "start": 66.8,
+      "end": 67.82
+    },
+    {
+      "text": "als",
+      "start": 67.86,
+      "end": 68.08
+    },
+    {
+      "text": "Codex",
+      "start": 68.14,
+      "end": 68.55
+    },
+    {
+      "text": "en",
+      "start": 68.9,
+      "end": 69.0
+    },
+    {
+      "text": "ChatGPT",
+      "start": 69.04,
+      "end": 69.74
+    },
+    {
+      "text": "for",
+      "start": 69.76,
+      "end": 69.86
+    },
+    {
+      "text": "Work,",
+      "start": 69.94,
+      "end": 70.2
     },
     {
       "text": "zonder",
-      "start": 157.8,
-      "end": 158.14
+      "start": 71.06,
+      "end": 71.36
     },
     {
-      "text": "stopvoorwaarden.",
-      "start": 158.22,
-      "end": 158.95
+      "text": "extra",
+      "start": 71.42,
+      "end": 71.72
     },
     {
-      "text": "60%",
-      "start": 159.94,
-      "end": 160.6
+      "text": "kost",
+      "start": 71.74,
+      "end": 72.0
     },
     {
-      "text": "van",
-      "start": 160.64,
-      "end": 160.72
+      "text": "boven",
+      "start": 72.06,
+      "end": 72.32
+    },
+    {
+      "text": "op",
+      "start": 72.34,
+      "end": 72.44
     },
     {
       "text": "de",
-      "start": 160.76,
-      "end": 160.84
+      "start": 72.48,
+      "end": 72.56
     },
     {
-      "text": "organisaties",
-      "start": 160.88,
-      "end": 161.74
-    },
-    {
-      "text": "kan",
-      "start": 161.78,
-      "end": 161.96
-    },
-    {
-      "text": "een",
-      "start": 162.0,
-      "end": 162.2
-    },
-    {
-      "text": "falende",
-      "start": 162.24,
-      "end": 162.66
-    },
-    {
-      "text": "AI-agent",
-      "start": 162.72,
-      "end": 163.66
-    },
-    {
-      "text": "trouwens",
-      "start": 163.8,
-      "end": 164.16
-    },
-    {
-      "text": "niet",
-      "start": 164.2,
-      "end": 164.34
-    },
-    {
-      "text": "eens",
-      "start": 164.46,
-      "end": 164.66
-    },
-    {
-      "text": "stopzetten.",
-      "start": 164.72,
-      "end": 165.26
+      "text": "modeltokens.",
+      "start": 72.58,
+      "end": 73.38
     },
     {
       "text": "Maar",
-      "start": 165.98,
-      "end": 166.14
+      "start": 73.96,
+      "end": 74.06
     },
     {
-      "text": "geen",
-      "start": 166.2,
-      "end": 166.42
+      "text": "dataresidentie",
+      "start": 74.14,
+      "end": 75.06
     },
     {
-      "text": "zorgen,",
-      "start": 166.46,
-      "end": 166.78
+      "text": "is",
+      "start": 75.16,
+      "end": 75.24
     },
     {
-      "text": "Muse",
-      "start": 167.64,
-      "end": 168.06
+      "text": "uitsluitend",
+      "start": 75.3,
+      "end": 75.96
     },
     {
-      "text": "doet",
-      "start": 168.28,
-      "end": 168.44
-    },
-    {
-      "text": "dat",
-      "start": 168.46,
-      "end": 168.62
-    },
-    {
-      "text": "gewoon",
-      "start": 168.66,
-      "end": 168.98
-    },
-    {
-      "text": "zelf.",
-      "start": 169.04,
-      "end": 169.38
-    },
-    {
-      "text": "Tot",
-      "start": 170.04,
-      "end": 170.2
+      "text": "in",
+      "start": 76.0,
+      "end": 76.06
     },
     {
       "text": "de",
-      "start": 170.22,
-      "end": 170.28
+      "start": 76.1,
+      "end": 76.18
     },
     {
-      "text": "volgende.",
-      "start": 170.32,
-      "end": 170.78
+      "text": "VS.",
+      "start": 76.22,
+      "end": 76.66
+    },
+    {
+      "text": "Zero",
+      "start": 77.52,
+      "end": 77.78
+    },
+    {
+      "text": "data",
+      "start": 77.86,
+      "end": 78.14
+    },
+    {
+      "text": "retention",
+      "start": 78.2,
+      "end": 78.76
+    },
+    {
+      "text": "niet",
+      "start": 79.14,
+      "end": 79.26
+    },
+    {
+      "text": "ondersteund.",
+      "start": 79.32,
+      "end": 79.96
+    },
+    {
+      "text": "Gratis",
+      "start": 80.42,
+      "end": 80.84
+    },
+    {
+      "text": "is",
+      "start": 80.9,
+      "end": 81.0
+    },
+    {
+      "text": "geweldig,",
+      "start": 81.04,
+      "end": 81.56
+    },
+    {
+      "text": "tenzij",
+      "start": 82.16,
+      "end": 82.5
+    },
+    {
+      "text": "je",
+      "start": 82.54,
+      "end": 82.6
+    },
+    {
+      "text": "GDPR-compliance",
+      "start": 82.68,
+      "end": 83.66
+    },
+    {
+      "text": "je",
+      "start": 83.68,
+      "end": 83.8
+    },
+    {
+      "text": "tegenhoudt",
+      "start": 83.88,
+      "end": 84.4
+    },
+    {
+      "text": "bij",
+      "start": 84.44,
+      "end": 84.52
+    },
+    {
+      "text": "de",
+      "start": 84.54,
+      "end": 84.6
+    },
+    {
+      "text": "grens.",
+      "start": 84.64,
+      "end": 85.039
+    },
+    {
+      "text": "Positron",
+      "start": 86.6,
+      "end": 87.04
+    },
+    {
+      "text": "AI",
+      "start": 87.14,
+      "end": 87.62
+    },
+    {
+      "text": "haalt",
+      "start": 87.64,
+      "end": 87.82
+    },
+    {
+      "text": "$",
+      "start": 87.88,
+      "end": 87.89
+    },
+    {
+      "text": "875",
+      "start": 88.38,
+      "end": 89.12
+    },
+    {
+      "text": "miljoen",
+      "start": 89.14,
+      "end": 89.37
+    },
+    {
+      "text": "op",
+      "start": 89.68,
+      "end": 89.82
+    },
+    {
+      "text": "in",
+      "start": 90.12,
+      "end": 90.18
+    },
+    {
+      "text": "een",
+      "start": 90.2,
+      "end": 90.3
+    },
+    {
+      "text": "serie",
+      "start": 90.34,
+      "end": 90.6
+    },
+    {
+      "text": "C",
+      "start": 90.66,
+      "end": 91.7
+    },
+    {
+      "text": "en",
+      "start": 91.8,
+      "end": 91.9
+    },
+    {
+      "text": "staat",
+      "start": 91.92,
+      "end": 92.18
+    },
+    {
+      "text": "nu",
+      "start": 92.2,
+      "end": 92.34
+    },
+    {
+      "text": "gewaardeerd",
+      "start": 92.36,
+      "end": 93.04
+    },
+    {
+      "text": "op",
+      "start": 93.1,
+      "end": 93.22
+    },
+    {
+      "text": "$",
+      "start": 93.23,
+      "end": 93.23
+    },
+    {
+      "text": "5",
+      "start": 93.24,
+      "end": 93.46
+    },
+    {
+      "text": "miljard.",
+      "start": 93.48,
+      "end": 94.1
+    },
+    {
+      "text": "Zeven",
+      "start": 94.78,
+      "end": 95.0
+    },
+    {
+      "text": "maanden",
+      "start": 95.04,
+      "end": 95.22
+    },
+    {
+      "text": "geleden",
+      "start": 95.24,
+      "end": 95.7
+    },
+    {
+      "text": "was",
+      "start": 95.74,
+      "end": 95.84
+    },
+    {
+      "text": "dat",
+      "start": 95.86,
+      "end": 95.94
+    },
+    {
+      "text": "nog",
+      "start": 95.98,
+      "end": 96.2
+    },
+    {
+      "text": "1,06",
+      "start": 96.4,
+      "end": 98.24
+    },
+    {
+      "text": "miljard.",
+      "start": 98.28,
+      "end": 98.72
+    },
+    {
+      "text": "Hun",
+      "start": 99.94,
+      "end": 100.06
+    },
+    {
+      "text": "Asimov-chip",
+      "start": 100.12,
+      "end": 100.74
+    },
+    {
+      "text": "gebruikt",
+      "start": 100.94,
+      "end": 101.24
+    },
+    {
+      "text": "goedkope",
+      "start": 101.28,
+      "end": 101.72
+    },
+    {
+      "text": "LPDDR,",
+      "start": 102.02,
+      "end": 103.82
+    },
+    {
+      "text": "5x",
+      "start": 105.12,
+      "end": 105.8
+    },
+    {
+      "text": "in",
+      "start": 105.84,
+      "end": 105.92
+    },
+    {
+      "text": "plaats",
+      "start": 105.96,
+      "end": 106.18
+    },
+    {
+      "text": "van",
+      "start": 106.2,
+      "end": 106.32
+    },
+    {
+      "text": "schaarse",
+      "start": 106.36,
+      "end": 106.82
+    },
+    {
+      "text": "HBM,",
+      "start": 106.84,
+      "end": 107.58
+    },
+    {
+      "text": "en",
+      "start": 108.6,
+      "end": 108.68
+    },
+    {
+      "text": "levert",
+      "start": 108.72,
+      "end": 109.02
+    },
+    {
+      "text": "drievoudig",
+      "start": 109.06,
+      "end": 109.63
+    },
+    {
+      "text": "lagere",
+      "start": 109.72,
+      "end": 110.06
+    },
+    {
+      "text": "inferentievertraging",
+      "start": 110.08,
+      "end": 111.28
+    },
+    {
+      "text": "dan",
+      "start": 111.62,
+      "end": 111.72
+    },
+    {
+      "text": "een",
+      "start": 111.76,
+      "end": 111.86
+    },
+    {
+      "text": "H100.",
+      "start": 111.9,
+      "end": 112.56
+    },
+    {
+      "text": "Nvidia",
+      "start": 113.04,
+      "end": 113.38
+    },
+    {
+      "text": "hoort",
+      "start": 113.42,
+      "end": 113.66
+    },
+    {
+      "text": "in",
+      "start": 113.72,
+      "end": 113.76
+    },
+    {
+      "text": "de",
+      "start": 113.8,
+      "end": 113.86
+    },
+    {
+      "text": "verte",
+      "start": 113.98,
+      "end": 114.3
+    },
+    {
+      "text": "een",
+      "start": 114.36,
+      "end": 114.54
+    },
+    {
+      "text": "ander",
+      "start": 114.6,
+      "end": 114.8
+    },
+    {
+      "text": "deuntje",
+      "start": 114.88,
+      "end": 115.2
+    },
+    {
+      "text": "spelen.",
+      "start": 115.26,
+      "end": 115.68
+    },
+    {
+      "text": "Out",
+      "start": 117.3,
+      "end": 117.42
+    },
+    {
+      "text": "of",
+      "start": 117.46,
+      "end": 117.52
+    },
+    {
+      "text": "the",
+      "start": 117.58,
+      "end": 117.62
+    },
+    {
+      "text": "Loop.",
+      "start": 117.68,
+      "end": 117.96
+    },
+    {
+      "text": "Microsoft",
+      "start": 119.56,
+      "end": 120.08
+    },
+    {
+      "text": "patchte",
+      "start": 120.2,
+      "end": 120.44
+    },
+    {
+      "text": "deze",
+      "start": 120.54,
+      "end": 120.83
+    },
+    {
+      "text": "week",
+      "start": 120.86,
+      "end": 121.06
+    },
+    {
+      "text": "bijna",
+      "start": 121.14,
+      "end": 121.32
+    },
+    {
+      "text": "966",
+      "start": 121.44,
+      "end": 123.04
+    },
+    {
+      "text": "CVE's",
+      "start": 123.34,
+      "end": 124.48
+    },
+    {
+      "text": "in",
+      "start": 124.54,
+      "end": 124.68
+    },
+    {
+      "text": "één",
+      "start": 124.74,
+      "end": 124.88
+    },
+    {
+      "text": "Patch",
+      "start": 124.98,
+      "end": 125.24
+    },
+    {
+      "text": "Tuesday.",
+      "start": 125.4,
+      "end": 125.88
+    },
+    {
+      "text": "Een",
+      "start": 126.84,
+      "end": 127.02
+    },
+    {
+      "text": "absoluut",
+      "start": 127.12,
+      "end": 127.68
+    },
+    {
+      "text": "record,",
+      "start": 127.76,
+      "end": 128.22
+    },
+    {
+      "text": "bijna",
+      "start": 129.1,
+      "end": 129.399
+    },
+    {
+      "text": "dubbel",
+      "start": 129.44,
+      "end": 129.64
+    },
+    {
+      "text": "zoveel",
+      "start": 129.72,
+      "end": 130.08
+    },
+    {
+      "text": "als",
+      "start": 130.14,
+      "end": 130.259
+    },
+    {
+      "text": "augustus.",
+      "start": 130.32,
+      "end": 130.86
+    },
+    {
+      "text": "Twee",
+      "start": 132.44,
+      "end": 132.56
+    },
+    {
+      "text": "zero",
+      "start": 132.68,
+      "end": 132.88
+    },
+    {
+      "text": "days",
+      "start": 132.96,
+      "end": 133.26
+    },
+    {
+      "text": "worden",
+      "start": 133.32,
+      "end": 133.6
+    },
+    {
+      "text": "al",
+      "start": 133.68,
+      "end": 133.78
+    },
+    {
+      "text": "actief",
+      "start": 133.8,
+      "end": 134.14
+    },
+    {
+      "text": "misbruikt",
+      "start": 134.18,
+      "end": 134.74
+    },
+    {
+      "text": "en",
+      "start": 136.08,
+      "end": 136.16
+    },
+    {
+      "text": "het",
+      "start": 136.18,
+      "end": 136.32
+    },
+    {
+      "text": "CCB",
+      "start": 136.36,
+      "end": 136.92
+    },
+    {
+      "text": "roept",
+      "start": 137.14,
+      "end": 137.38
+    },
+    {
+      "text": "iedereen",
+      "start": 137.56,
+      "end": 137.9
+    },
+    {
+      "text": "op",
+      "start": 137.94,
+      "end": 138.08
+    },
+    {
+      "text": "onmiddellijk",
+      "start": 138.32,
+      "end": 138.84
+    },
+    {
+      "text": "te",
+      "start": 138.86,
+      "end": 138.96
+    },
+    {
+      "text": "patchen.",
+      "start": 139.0,
+      "end": 139.7
+    },
+    {
+      "text": "966",
+      "start": 140.18,
+      "end": 141.26
+    },
+    {
+      "text": "patches",
+      "start": 141.3,
+      "end": 141.66
+    },
+    {
+      "text": "op",
+      "start": 141.7,
+      "end": 141.84
+    },
+    {
+      "text": "één",
+      "start": 141.92,
+      "end": 142.06
+    },
+    {
+      "text": "dag.",
+      "start": 142.1,
+      "end": 142.38
+    },
+    {
+      "text": "Ergens",
+      "start": 143.32,
+      "end": 143.62
+    },
+    {
+      "text": "bij",
+      "start": 143.64,
+      "end": 143.78
+    },
+    {
+      "text": "Microsoft",
+      "start": 143.8,
+      "end": 144.44
+    },
+    {
+      "text": "klinkt",
+      "start": 144.5,
+      "end": 144.76
+    },
+    {
+      "text": "een",
+      "start": 144.78,
+      "end": 144.88
+    },
+    {
+      "text": "alarmbel,",
+      "start": 144.94,
+      "end": 145.52
+    },
+    {
+      "text": "maar",
+      "start": 146.2,
+      "end": 146.34
+    },
+    {
+      "text": "die",
+      "start": 146.36,
+      "end": 146.48
+    },
+    {
+      "text": "staat",
+      "start": 146.56,
+      "end": 146.78
+    },
+    {
+      "text": "waarschijnlijk",
+      "start": 146.8,
+      "end": 147.44
+    },
+    {
+      "text": "ook",
+      "start": 147.56,
+      "end": 147.74
+    },
+    {
+      "text": "in",
+      "start": 147.78,
+      "end": 147.84
+    },
+    {
+      "text": "de",
+      "start": 147.86,
+      "end": 147.94
+    },
+    {
+      "text": "lijst.",
+      "start": 147.98,
+      "end": 148.42
+    },
+    {
+      "text": "Tot",
+      "start": 148.92,
+      "end": 149.1
+    },
+    {
+      "text": "de",
+      "start": 149.12,
+      "end": 149.22
+    },
+    {
+      "text": "volgende",
+      "start": 149.26,
+      "end": 149.66
     },
     {
       "text": "Looped",
-      "start": 171.38,
-      "end": 171.76
+      "start": 149.7,
+      "end": 149.89
     },
     {
-      "text": "out.",
-      "start": 171.84,
-      "end": 172.14
+      "text": "Out.",
+      "start": 149.96,
+      "end": 150.22
     }
   ]
 }
