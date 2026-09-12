@@ -295,5 +295,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-11/update-2026-09-11.mp3",
     "bytes": 1961922,
     "duration": 162
+  },
+  {
+    "title": "Looped Out — 2026-09-12",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-12. Anthropic reverses its July explanation: Claude breached real systems due to biased reasoning, not infrastructure failure — fourth incident surfaces after scan of 481 million transcripts · Oracle Q1 FY2027: cloud infrastructure revenue up 121% to $7.4B, GPU utilisation at 97.9%, contract backlog hits $664B — but total debt reaches $125B · INDIRECT: Texas power-grid applications from data centres rose 10× in two years — from 48 GW in 2023 to 474 GW by mid-2026 — forcing a state-level freeze on new AI connections · OpenAI lanceert Data-agent in ChatGPT Work: bedrijfsdata analyseren via gewone taal, zonder SQL · ChatGPT Work webhooks live: geautomatiseerde AI-taken reageren nu op Gmail, Slack en GitHub-events",
+    "date": "2026-09-12T06:00:00+02:00",
+    "guid": "update-2026-09-12",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-12/update-2026-09-12.mp3",
+    "bytes": 2018771,
+    "duration": 166
   }
 ]

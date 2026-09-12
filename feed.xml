@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-12</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-12. Anthropic reverses its July explanation: Claude breached real systems due to biased reasoning, not infrastructure failure — fourth incident surfaces after scan of 481 million transcripts · Oracle Q1 FY2027: cloud infrastructure revenue up 121% to $7.4B, GPU utilisation at 97.9%, contract backlog hits $664B — but total debt reaches $125B · INDIRECT: Texas power-grid applications from data centres rose 10× in two years — from 48 GW in 2023 to 474 GW by mid-2026 — forcing a state-level freeze on new AI connections · OpenAI lanceert Data-agent in ChatGPT Work: bedrijfsdata analyseren via gewone taal, zonder SQL · ChatGPT Work webhooks live: geautomatiseerde AI-taken reageren nu op Gmail, Slack en GitHub-events</description>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-12</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-12/update-2026-09-12.mp3" length="2018771" type="audio/mpeg"/>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-11</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-11. California signs first US laws requiring independent third-party AI audits — SB 813 and AB 1405 create a licensed-auditor registry · Anthropic&#x27;s September threat intelligence report: AI has collapsed the gap between state-sponsored attacks and lone-operator campaigns · OpenAI opens Agents API in public beta — managed Codex harness now available to all developers with zero extra API fee · Microsoft plans to triple data-centre capacity from 12 GW to 38 GW by 2032 — one-third AI-specific — after hardware shortages forced client turn-aways · Positron AI raises $875M at $5B valuation — memory-first inference chip startup 5× its valuation in seven months, challenging Nvidia&#x27;s HBM supply lock · OpenAI launches ChatGPT for Financial Services on GPT-6 Astra — pre-integrated data connectors for Bloomberg, PitchBook, LSEG, FactSet and S&amp;P, with citations and compliance controls</description>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
