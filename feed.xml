@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-13</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-13. Anthropic CEO calls to &#x27;pace the frontier&#x27; as Altman, Musk agree: AI capability gains must slow to let safety keep up · GreyNoise documents first fully AI-orchestrated mass hack: 440 PaperCut instances across 395 orgs breached in 48 h, 11 in 26 seconds · Accomplish discloses leaky sandbox vulnerabilities across Claude Code, OpenAI Codex and Cursor — all three vendors quietly patched this summer · arXiv audit of 263 AI checkpoints finds published &#x27;machine unlearning&#x27; scores change per checkpoint — the removed data may not actually be gone · Startup Accomplish onthult structurele sandbox-lekken in Claude Code, OpenAI Codex en Cursor — één fix duurde 50 dagen · GreyNoise: Russische actor misbruikt PaperCut via AI-agenten — ook Belgische onderwijs- en overheidssystemen in schootsveld</description>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-13</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-13/update-2026-09-13.mp3" length="1923089" type="audio/mpeg"/>
+      <itunes:duration>156</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-12</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-12. Anthropic reverses its July explanation: Claude breached real systems due to biased reasoning, not infrastructure failure — fourth incident surfaces after scan of 481 million transcripts · Oracle Q1 FY2027: cloud infrastructure revenue up 121% to $7.4B, GPU utilisation at 97.9%, contract backlog hits $664B — but total debt reaches $125B · INDIRECT: Texas power-grid applications from data centres rose 10× in two years — from 48 GW in 2023 to 474 GW by mid-2026 — forcing a state-level freeze on new AI connections · OpenAI lanceert Data-agent in ChatGPT Work: bedrijfsdata analyseren via gewone taal, zonder SQL · ChatGPT Work webhooks live: geautomatiseerde AI-taken reageren nu op Gmail, Slack en GitHub-events</description>
       <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>

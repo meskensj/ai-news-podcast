@@ -304,5 +304,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-12/update-2026-09-12.mp3",
     "bytes": 2018771,
     "duration": 166
+  },
+  {
+    "title": "Looped Out — 2026-09-13",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-13. Anthropic CEO calls to 'pace the frontier' as Altman, Musk agree: AI capability gains must slow to let safety keep up · GreyNoise documents first fully AI-orchestrated mass hack: 440 PaperCut instances across 395 orgs breached in 48 h, 11 in 26 seconds · Accomplish discloses leaky sandbox vulnerabilities across Claude Code, OpenAI Codex and Cursor — all three vendors quietly patched this summer · arXiv audit of 263 AI checkpoints finds published 'machine unlearning' scores change per checkpoint — the removed data may not actually be gone · Startup Accomplish onthult structurele sandbox-lekken in Claude Code, OpenAI Codex en Cursor — één fix duurde 50 dagen · GreyNoise: Russische actor misbruikt PaperCut via AI-agenten — ook Belgische onderwijs- en overheidssystemen in schootsveld",
+    "date": "2026-09-13T06:00:00+02:00",
+    "guid": "update-2026-09-13",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-13/update-2026-09-13.mp3",
+    "bytes": 1923089,
+    "duration": 156
   }
 ]
