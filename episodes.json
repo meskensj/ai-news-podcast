@@ -313,5 +313,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-13/update-2026-09-13.mp3",
     "bytes": 1923089,
     "duration": 156
+  },
+  {
+    "title": "Looped Out — 2026-09-14",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-14. Anthropic, OpenAI and Google in active talks to create a joint AI industry standards body — privately, ahead of any government mandate · Microsoft publishes first-ever public Code of Conduct for its MAI models, joins 'deliberate pacing' camp and demands enterprise control of learning loops · Meta reverses flat-org experiment in Applied AI: after 50-to-1 manager spans and 7,000 reassignments, it is quietly recruiting managers back · 25 Fields Medalists — including Terence Tao — publish joint declaration accusing AI labs of 'severe misalignment' with mathematics: solving problems is not the same as understanding them · Bloomberg: AI lab CEOs risk collision with Wall Street and Trump White House over their own calls to slow frontier development · CISA voegt 5 actief misbruikte kwetsbaarheden toe aan KEV: JFrog Artifactory, ConnectWise ScreenConnect en MikroTik RouterOS — federale deadline vandaag",
+    "date": "2026-09-14T06:00:00+02:00",
+    "guid": "update-2026-09-14",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-14/update-2026-09-14.mp3",
+    "bytes": 1975828,
+    "duration": 163
   }
 ]
