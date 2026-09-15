@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-15</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-15. Andon Labs launches Pion: an agent platform that runs real businesses fully autonomously — with banking, email and phone included · Trump publicly rejects AI pacing consensus on Sept 15 — widening the transatlantic governance split · GitHub Agentic Workflows enters technical preview: coding agents now embedded in GitHub Actions for triage, documentation and code quality · Bol (Belgian/Dutch e-commerce leader) launches &#x27;Shophulp&#x27;: an AI shopping assistant that helps customers find products in natural language</description>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-15</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-15/update-2026-09-15.mp3" length="1906076" type="audio/mpeg"/>
+      <itunes:duration>157</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-14</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-14. Anthropic, OpenAI and Google in active talks to create a joint AI industry standards body — privately, ahead of any government mandate · Microsoft publishes first-ever public Code of Conduct for its MAI models, joins &#x27;deliberate pacing&#x27; camp and demands enterprise control of learning loops · Meta reverses flat-org experiment in Applied AI: after 50-to-1 manager spans and 7,000 reassignments, it is quietly recruiting managers back · 25 Fields Medalists — including Terence Tao — publish joint declaration accusing AI labs of &#x27;severe misalignment&#x27; with mathematics: solving problems is not the same as understanding them · Bloomberg: AI lab CEOs risk collision with Wall Street and Trump White House over their own calls to slow frontier development · CISA voegt 5 actief misbruikte kwetsbaarheden toe aan KEV: JFrog Artifactory, ConnectWise ScreenConnect en MikroTik RouterOS — federale deadline vandaag</description>
       <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
