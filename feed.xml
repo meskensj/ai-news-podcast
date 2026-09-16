@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-16</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-16. Shanghai AI Lab drops 744B open-weight agentic model Atria Dawn — quietly, under MIT licence, with a human-collaboration study attached · Cornelis Networks raises $205M and ships Active Compute Fabric — open, GPU-agnostic AI networking designed to chip away at Nvidia&#x27;s interconnect lock-in · BIPT: Belgische telecomoperatoren blokkeerden 103 miljoen frauduleuze oproepen in eerste helft 2026 · Salesforce lanceert tijdens Dreamforce 2026 eerste CRM-redeneermodel &#x27;Koa&#x27; met NVIDIA — nieuwe Agentforce-agents nu algemeen beschikbaar</description>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-16</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-16/update-2026-09-16.mp3" length="1848182" type="audio/mpeg"/>
+      <itunes:duration>154</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-15</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-15. Andon Labs launches Pion: an agent platform that runs real businesses fully autonomously — with banking, email and phone included · Trump publicly rejects AI pacing consensus on Sept 15 — widening the transatlantic governance split · GitHub Agentic Workflows enters technical preview: coding agents now embedded in GitHub Actions for triage, documentation and code quality · Bol (Belgian/Dutch e-commerce leader) launches &#x27;Shophulp&#x27;: an AI shopping assistant that helps customers find products in natural language</description>
       <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>

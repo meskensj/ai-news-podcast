@@ -331,5 +331,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-15/update-2026-09-15.mp3",
     "bytes": 1906076,
     "duration": 157
+  },
+  {
+    "title": "Looped Out — 2026-09-16",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-16. Shanghai AI Lab drops 744B open-weight agentic model Atria Dawn — quietly, under MIT licence, with a human-collaboration study attached · Cornelis Networks raises $205M and ships Active Compute Fabric — open, GPU-agnostic AI networking designed to chip away at Nvidia's interconnect lock-in · BIPT: Belgische telecomoperatoren blokkeerden 103 miljoen frauduleuze oproepen in eerste helft 2026 · Salesforce lanceert tijdens Dreamforce 2026 eerste CRM-redeneermodel 'Koa' met NVIDIA — nieuwe Agentforce-agents nu algemeen beschikbaar",
+    "date": "2026-09-16T06:00:00+02:00",
+    "guid": "update-2026-09-16",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-16/update-2026-09-16.mp3",
+    "bytes": 1848182,
+    "duration": 154
   }
 ]
