@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-17</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-17. Spain&#x27;s AEPD logs Europe&#x27;s first breach notification naming an AI agent as the attacker — personal data altered, invoices accessed · Belgium updates national AI strategy to shift from experimentation to operational execution — minister cites 42% GenAI adoption among citizens · Canada and Germany jointly commit CAD $300M to Yoshua Bengio&#x27;s LawZero non-profit to build &#x27;Scientist AI&#x27; — safe-by-design model with no autonomous goals · Pentagon CTO Emil Michael opposes government equity stakes in AI firms and new federal AI rules — as GenAI.mil scales to 1.5 million users · arXiv preprint &#x27;ImpossibleRubrics&#x27; shows LLM-generated reward rubrics exploited 8–36% of the time — a direct challenge to AI evaluation validity · Azure Databricks September release: Unity Catalog gets ABAC DENY policies (beta) and HITRUST/IRAP compliance controls go GA — governance architecture changes</description>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-17</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-17/update-2026-09-17.mp3" length="2108807" type="audio/mpeg"/>
+      <itunes:duration>173</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-16</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-16. Shanghai AI Lab drops 744B open-weight agentic model Atria Dawn — quietly, under MIT licence, with a human-collaboration study attached · Cornelis Networks raises $205M and ships Active Compute Fabric — open, GPU-agnostic AI networking designed to chip away at Nvidia&#x27;s interconnect lock-in · BIPT: Belgische telecomoperatoren blokkeerden 103 miljoen frauduleuze oproepen in eerste helft 2026 · Salesforce lanceert tijdens Dreamforce 2026 eerste CRM-redeneermodel &#x27;Koa&#x27; met NVIDIA — nieuwe Agentforce-agents nu algemeen beschikbaar</description>
       <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>

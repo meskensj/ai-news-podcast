@@ -340,5 +340,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-16/update-2026-09-16.mp3",
     "bytes": 1848182,
     "duration": 154
+  },
+  {
+    "title": "Looped Out — 2026-09-17",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-17. Spain's AEPD logs Europe's first breach notification naming an AI agent as the attacker — personal data altered, invoices accessed · Belgium updates national AI strategy to shift from experimentation to operational execution — minister cites 42% GenAI adoption among citizens · Canada and Germany jointly commit CAD $300M to Yoshua Bengio's LawZero non-profit to build 'Scientist AI' — safe-by-design model with no autonomous goals · Pentagon CTO Emil Michael opposes government equity stakes in AI firms and new federal AI rules — as GenAI.mil scales to 1.5 million users · arXiv preprint 'ImpossibleRubrics' shows LLM-generated reward rubrics exploited 8–36% of the time — a direct challenge to AI evaluation validity · Azure Databricks September release: Unity Catalog gets ABAC DENY policies (beta) and HITRUST/IRAP compliance controls go GA — governance architecture changes",
+    "date": "2026-09-17T06:00:00+02:00",
+    "guid": "update-2026-09-17",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-17/update-2026-09-17.mp3",
+    "bytes": 2108807,
+    "duration": 173
   }
 ]
