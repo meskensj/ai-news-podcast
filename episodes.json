@@ -349,5 +349,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-17/update-2026-09-17.mp3",
     "bytes": 2108807,
     "duration": 173
+  },
+  {
+    "title": "Looped Out — 2026-09-18",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-18. Pew Research: 34 of 37 countries expect AI to destroy more jobs than it creates — and the pessimism is sharpest in wealthy nations · Anthropic: Claude optimised 30+ open-source biomolecular models 4× faster in under four weeks, supervised by just two staff — with zero kernel engineering experience · Alibaba releases Qwen3.8 Omni Flash on September 18: a multimodal model matching Gemini 3.8 Flash at a fraction of the cost — and under a community licence · Federal judge orders Elon Musk to hand over Apple settlement terms after X and SpaceXAI dropped antitrust case — and the AI governance implications are real · Vlaams Departement Mobiliteit en Openbare Werken (MOW) gehackt: officieel e-mailaccount misbruikt voor Duitstalige phishingcampagne · Datalek EAD-Online: 19.000 gebruikers van Belgisch e-learningplatform van Fédération Wallonie-Bruxelles aangeboden op darkweb",
+    "date": "2026-09-18T06:00:00+02:00",
+    "guid": "update-2026-09-18",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-18/update-2026-09-18.mp3",
+    "bytes": 2080004,
+    "duration": 172
   }
 ]
