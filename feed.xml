@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-19</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-19. Anthropic&#x27;s 2026 State of AI Agents report: 57% of enterprises now deploy agents for multi-stage workflows, but 80% claim measurable ROI — against Forrester&#x27;s 88% pilot-failure rate · Study.com State of AI Jobs and Skills 2026: 35% of employees have never received any AI training, only 24% got formal employer programmes</description>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-19</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-19/update-2026-09-19.mp3" length="1662319" type="audio/mpeg"/>
+      <itunes:duration>136</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-18</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-18. Pew Research: 34 of 37 countries expect AI to destroy more jobs than it creates — and the pessimism is sharpest in wealthy nations · Anthropic: Claude optimised 30+ open-source biomolecular models 4× faster in under four weeks, supervised by just two staff — with zero kernel engineering experience · Alibaba releases Qwen3.8 Omni Flash on September 18: a multimodal model matching Gemini 3.8 Flash at a fraction of the cost — and under a community licence · Federal judge orders Elon Musk to hand over Apple settlement terms after X and SpaceXAI dropped antitrust case — and the AI governance implications are real · Vlaams Departement Mobiliteit en Openbare Werken (MOW) gehackt: officieel e-mailaccount misbruikt voor Duitstalige phishingcampagne · Datalek EAD-Online: 19.000 gebruikers van Belgisch e-learningplatform van Fédération Wallonie-Bruxelles aangeboden op darkweb</description>
       <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
