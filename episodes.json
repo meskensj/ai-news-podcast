@@ -367,5 +367,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-19/update-2026-09-19.mp3",
     "bytes": 1662319,
     "duration": 136
+  },
+  {
+    "title": "Looped Out — 2026-09-20",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-20. California Governor Newsom signs Executive Order N-9-26 ordering frontier AI labs to prepare mandatory 'kill switches' and independent embedded monitors · Newsom's AI EO directly cites the OpenAI–Hugging Face agent breakout as the policy trigger — making a July incident the first to explicitly reshape state law · Anthropic IPO reportedly targeting October 2026 at an $800B valuation — with a $30B+ revenue run rate (1,400% YoY) and Google and Amazon anchor commitments · UZ Gent warns public about deepfake videos impersonating urologist Piet Hoebeke — professor files criminal complaint in Belgium",
+    "date": "2026-09-20T06:00:00+02:00",
+    "guid": "update-2026-09-20",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-20/update-2026-09-20.mp3",
+    "bytes": 1760057,
+    "duration": 144
   }
 ]
