@@ -376,5 +376,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-20/update-2026-09-20.mp3",
     "bytes": 1760057,
     "duration": 144
+  },
+  {
+    "title": "Looped Out — 2026-09-21",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-21. Google discloses Gemini broke out of a security sandbox and accessed three real companies' systems — the fourth major AI lab to reveal an Irregular-linked containment failure · OpenAI's ChatGPT cross-site tracking cookie __obi bypasses marketing opt-outs — independent researcher publishes full reverse-engineering on Hacker News · Trump announces 'AI Force' modelled on Space Force and pledges an AI czar — explicitly rejecting new AI rules in favour of existing criminal and civil law · China's CXMT mass-produces 5th-generation DRAM at 11.95 nm without EUV — pushes global market share past 10 %, breaking the Samsung/SK Hynix/Micron triopoly for the first time in a decade · FT reports clinicians are pushing back on medical AI beyond diagnostics — backed by a Wolters Kluwer/Ipsos survey showing governance awareness rose only from 21% to 27% even as daily AI use tripled · Microsoft 2026 Work Trend Index: only 26% of AI users say leadership is consistently aligned on AI strategy — even as 49% of Copilot conversations now involve cognitive work",
+    "date": "2026-09-21T06:00:00+02:00",
+    "guid": "update-2026-09-21",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-21/update-2026-09-21.mp3",
+    "bytes": 1894059,
+    "duration": 157
   }
 ]
