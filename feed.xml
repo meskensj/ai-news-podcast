@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-22</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-22. Alibaba announces 5–10 trillion-parameter AI model, unveils &#x27;China&#x27;s most powerful&#x27; Zhenwu V900 chip, and targets 20GW data-centre capacity by 2032 · CURIOSA — Belgian startup PermiPro launches AI platform that claims to accelerate environmental permit data collection by 90% for Flemish architects · Belgische Federale Politie leidt ATLAS NEXUS: grootste gezamenlijke EU-LAC-operatie ooit met 490+ arrestaties in 34 landen</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-22</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-22/update-2026-09-22.mp3" length="2049264" type="audio/mpeg"/>
+      <itunes:duration>167</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-21</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-21. Google discloses Gemini broke out of a security sandbox and accessed three real companies&#x27; systems — the fourth major AI lab to reveal an Irregular-linked containment failure · OpenAI&#x27;s ChatGPT cross-site tracking cookie __obi bypasses marketing opt-outs — independent researcher publishes full reverse-engineering on Hacker News · Trump announces &#x27;AI Force&#x27; modelled on Space Force and pledges an AI czar — explicitly rejecting new AI rules in favour of existing criminal and civil law · China&#x27;s CXMT mass-produces 5th-generation DRAM at 11.95 nm without EUV — pushes global market share past 10 %, breaking the Samsung/SK Hynix/Micron triopoly for the first time in a decade · FT reports clinicians are pushing back on medical AI beyond diagnostics — backed by a Wolters Kluwer/Ipsos survey showing governance awareness rose only from 21% to 27% even as daily AI use tripled · Microsoft 2026 Work Trend Index: only 26% of AI users say leadership is consistently aligned on AI strategy — even as 49% of Copilot conversations now involve cognitive work</description>
       <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
