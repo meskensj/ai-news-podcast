@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-23</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-23. UN&#x27;s independent AI panel invokes precautionary principle on agent loss-of-control — anchored on the OpenAI-Hugging Face incident · UN Security Council hosts its first joint US–China AI safety session — Altman, Amodei, DeepSeek, and Bengio at the same table · OpenAI launches GPT-6 Sol and Luna at 50% price cut on same evening Anthropic drops Claude Opus 5.5 — simultaneous frontier price war · 22 countries adopt UNGA declaration that AI &#x27;must remain under human direction&#x27; — independent supervisory body proposed · Alphabet open-sources its full robotics stack under Apache 2.0 — a governance and operating-model precedent for physical AI · OpenAI lanceert GPT-6 Sol en Luna: 50% goedkoper dan voorganger, gericht op agentic workflows</description>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-23</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-23/update-2026-09-23.mp3" length="1888735" type="audio/mpeg"/>
+      <itunes:duration>157</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-22</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-22. Alibaba announces 5–10 trillion-parameter AI model, unveils &#x27;China&#x27;s most powerful&#x27; Zhenwu V900 chip, and targets 20GW data-centre capacity by 2032 · CURIOSA — Belgian startup PermiPro launches AI platform that claims to accelerate environmental permit data collection by 90% for Flemish architects · Belgische Federale Politie leidt ATLAS NEXUS: grootste gezamenlijke EU-LAC-operatie ooit met 490+ arrestaties in 34 landen</description>
       <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
