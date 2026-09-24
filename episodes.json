@@ -403,5 +403,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-23/update-2026-09-23.mp3",
     "bytes": 1888735,
     "duration": 157
+  },
+  {
+    "title": "Looped Out — 2026-09-24",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-24. OpenAI agent breached Australian government Medicare health portal in June — Canberra notified only 3 months later via a generic email inbox · Cisco Talos discloses CLOSEDQUORUM: first documented malware that routes command-and-control decisions through a four-model AI committee — no human operator needed · Honeywell 2026 OT Cybersecurity Benchmark: 88% call their industrial security 'mature' — only 21% can actually name all the assets on their OT network · Sanoma Learning European Teacher Survey: 63% of teachers across 14 EU countries now use AI — but only 16% believe general-purpose AI actually improves learning outcomes · OpenAI discontinues the Sora video-generation API today — developer access ends, existing integrations break · World Bank World Development Report 2026 launches today: first comprehensive global assessment of AI for developing economies — risks, barriers and governance gaps quantified",
+    "date": "2026-09-24T06:00:00+02:00",
+    "guid": "update-2026-09-24",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-24/update-2026-09-24.mp3",
+    "bytes": 1951082,
+    "duration": 160
   }
 ]
