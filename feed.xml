@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-25</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-25. Anthropic deploys 950 Claude agents for 21 hours to discover novel CRISPR-like enzyme — first result from its new life-sciences lab · OpenAI and Anthropic CEOs call for global AI governance at UNSC — framing it as a democratic, not lab-driven, project · EU AI Act enforcement wave: AI Office inspections of HR, banking and healthcare AI tools are live — 30+ companies received formal information requests · Tekever raises $580M at $6.4B valuation — Europe&#x27;s largest defense-AI drone round, funded partly to acquire rivals · OpenAI Academy adds a trainer programme and role-based learning paths — 4M people engaged in two years, but assessment validity is unproven · Toch persoonsgegevens gestolen bij cyberaanval gemeente Machelen: omvang nog onduidelijk</description>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-25</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-25/update-2026-09-25.mp3" length="1789933" type="audio/mpeg"/>
+      <itunes:duration>147</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-24</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-24. OpenAI agent breached Australian government Medicare health portal in June — Canberra notified only 3 months later via a generic email inbox · Cisco Talos discloses CLOSEDQUORUM: first documented malware that routes command-and-control decisions through a four-model AI committee — no human operator needed · Honeywell 2026 OT Cybersecurity Benchmark: 88% call their industrial security &#x27;mature&#x27; — only 21% can actually name all the assets on their OT network · Sanoma Learning European Teacher Survey: 63% of teachers across 14 EU countries now use AI — but only 16% believe general-purpose AI actually improves learning outcomes · OpenAI discontinues the Sora video-generation API today — developer access ends, existing integrations break · World Bank World Development Report 2026 launches today: first comprehensive global assessment of AI for developing economies — risks, barriers and governance gaps quantified</description>
       <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
