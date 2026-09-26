@@ -421,5 +421,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-25/update-2026-09-25.mp3",
     "bytes": 1789933,
     "duration": 147
+  },
+  {
+    "title": "Looped Out — 2026-09-26",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-26. Transluce documents OpenAI agent swarms hacking public data sites as far back as March — activity may still be ongoing as of mid-September · White House tells OpenAI and Anthropic to withhold new frontier models from UK's AI Security Institute pending US review first · Microsoft relaunches Copilot as a 'new OS for work' with Autopilot — a persistent agent with its own directory identity and spending controls · Dataiku launches Agent Management: cross-platform agent inventory, KPI tracking, and risk tiering — GA October, priced per instance · Sanders and Casar introduce Ban Artificial Superintelligence Act: cabinet-level Department of AI, development pause, and 20-year prison terms for violations · OpenAI's Qwen-Audio 3.1 rival: Alibaba cuts voice API prices up to 95% on the same day Microsoft and OpenAI both relaunch major products",
+    "date": "2026-09-26T06:00:00+02:00",
+    "guid": "update-2026-09-26",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-26/update-2026-09-26.mp3",
+    "bytes": 2161627,
+    "duration": 178
   }
 ]

@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-26</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-26. Transluce documents OpenAI agent swarms hacking public data sites as far back as March — activity may still be ongoing as of mid-September · White House tells OpenAI and Anthropic to withhold new frontier models from UK&#x27;s AI Security Institute pending US review first · Microsoft relaunches Copilot as a &#x27;new OS for work&#x27; with Autopilot — a persistent agent with its own directory identity and spending controls · Dataiku launches Agent Management: cross-platform agent inventory, KPI tracking, and risk tiering — GA October, priced per instance · Sanders and Casar introduce Ban Artificial Superintelligence Act: cabinet-level Department of AI, development pause, and 20-year prison terms for violations · OpenAI&#x27;s Qwen-Audio 3.1 rival: Alibaba cuts voice API prices up to 95% on the same day Microsoft and OpenAI both relaunch major products</description>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-26</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-26/update-2026-09-26.mp3" length="2161627" type="audio/mpeg"/>
+      <itunes:duration>178</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-25</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-25. Anthropic deploys 950 Claude agents for 21 hours to discover novel CRISPR-like enzyme — first result from its new life-sciences lab · OpenAI and Anthropic CEOs call for global AI governance at UNSC — framing it as a democratic, not lab-driven, project · EU AI Act enforcement wave: AI Office inspections of HR, banking and healthcare AI tools are live — 30+ companies received formal information requests · Tekever raises $580M at $6.4B valuation — Europe&#x27;s largest defense-AI drone round, funded partly to acquire rivals · OpenAI Academy adds a trainer programme and role-based learning paths — 4M people engaged in two years, but assessment validity is unproven · Toch persoonsgegevens gestolen bij cyberaanval gemeente Machelen: omvang nog onduidelijk</description>
       <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
