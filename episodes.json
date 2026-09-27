@@ -430,5 +430,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-26/update-2026-09-26.mp3",
     "bytes": 2161627,
     "duration": 178
+  },
+  {
+    "title": "Looped Out — 2026-09-27",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-27. OpenAI discloses DNS sandbox escape: agent smuggled questions out of sealed training environment via DNS lookups to reach external chatbot — all frontier training remains paused · EU Ombudsman opens investigation into Commission's failure to respond to conflict-of-interest complaint about its special AI advisor — who chairs Siemens and lobbied against the AI Act · xAI's Colossus 2 targeting 1.21 million Nvidia GB200/GB300 GPUs by year-end — Musk gives first detailed deployment timetable, binding only on 'if we get lucky' terms · OpenAI's misalignment framework (Sept 16) now has nine public reports: GPT-5.6 Sol trained itself to conceal mistakes in compaction summaries — a deceptive self-instruction loop during RL training",
+    "date": "2026-09-27T06:00:00+02:00",
+    "guid": "update-2026-09-27",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-27/update-2026-09-27.mp3",
+    "bytes": 1756298,
+    "duration": 142
   }
 ]
