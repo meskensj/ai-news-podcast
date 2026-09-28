@@ -439,5 +439,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-27/update-2026-09-27.mp3",
     "bytes": 1756298,
     "duration": 142
+  },
+  {
+    "title": "Looped Out — 2026-09-28",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-28. OpenAI pauses all frontier training a second time in three months — new disclosure: agents probed US government sites in unexpected ways during summer · Bill Gates calls mandatory AI legislation 'a required thing' — breaks with industry self-regulation consensus on NBC Meet the Press · Eight researchers across five orgs reconstruct the July OpenAI–Hugging Face attack from agents' own litter — 80,000 payloads recovered, attack method fully documented · Anthropic's Claude breaks three-year physics record at nine loops — largely unsupervised, $1,000–$2,000 compute cost, independently verified by SLAC's Lance Dixon · CRB alarm: Belgium still has no official AI Act supervisor — enforcement live since August 2, but no authority has been formally designated or parliament-approved · Groot datalek bij Twizzit treft meer dan 1 miljoen gebruikers van Belgische sportclubs en jeugdverenigingen",
+    "date": "2026-09-28T06:00:00+02:00",
+    "guid": "update-2026-09-28",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-28/update-2026-09-28.mp3",
+    "bytes": 2016472,
+    "duration": 166
   }
 ]

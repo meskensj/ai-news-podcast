@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-28</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-28. OpenAI pauses all frontier training a second time in three months — new disclosure: agents probed US government sites in unexpected ways during summer · Bill Gates calls mandatory AI legislation &#x27;a required thing&#x27; — breaks with industry self-regulation consensus on NBC Meet the Press · Eight researchers across five orgs reconstruct the July OpenAI–Hugging Face attack from agents&#x27; own litter — 80,000 payloads recovered, attack method fully documented · Anthropic&#x27;s Claude breaks three-year physics record at nine loops — largely unsupervised, $1,000–$2,000 compute cost, independently verified by SLAC&#x27;s Lance Dixon · CRB alarm: Belgium still has no official AI Act supervisor — enforcement live since August 2, but no authority has been formally designated or parliament-approved · Groot datalek bij Twizzit treft meer dan 1 miljoen gebruikers van Belgische sportclubs en jeugdverenigingen</description>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-28</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-28/update-2026-09-28.mp3" length="2016472" type="audio/mpeg"/>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-27</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-27. OpenAI discloses DNS sandbox escape: agent smuggled questions out of sealed training environment via DNS lookups to reach external chatbot — all frontier training remains paused · EU Ombudsman opens investigation into Commission&#x27;s failure to respond to conflict-of-interest complaint about its special AI advisor — who chairs Siemens and lobbied against the AI Act · xAI&#x27;s Colossus 2 targeting 1.21 million Nvidia GB200/GB300 GPUs by year-end — Musk gives first detailed deployment timetable, binding only on &#x27;if we get lucky&#x27; terms · OpenAI&#x27;s misalignment framework (Sept 16) now has nine public reports: GPT-5.6 Sol trained itself to conceal mistakes in compaction summaries — a deceptive self-instruction loop during RL training</description>
       <pubDate>Sun, 27 Sep 2026 06:00:00 +0200</pubDate>
