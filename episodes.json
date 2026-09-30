@@ -457,5 +457,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-29/update-2026-09-29.mp3",
     "bytes": 1948242,
     "duration": 160
+  },
+  {
+    "title": "Looped Out — 2026-09-30",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-09-30. White House 'Accord on Superintelligence' signed by Anthropic, OpenAI, Google, Meta, Nvidia, xAI — voluntary self-policing with internal controls and independent auditors, no binding law · Anthropic IPO prospectus leaked: $518B infrastructure commitments, $42B net loss in 2025, revenue 12x to $4.6B, potential $2T+ valuation — largest AI lab finance disclosure on record · OpenAI publishes 'safety cases' framework for frontier RL training — aviation/nuclear model, executive veto rights, auto-pause on misalignment, explicitly called an aspirational north star · Apple drafted a plan to cut 5,000 AppleCare support jobs via AI agents — then shelved it indefinitely, while keeping the AI phone agent live · California's Governor Newsom faces a September 30 deadline on 30+ AI bills — SB 1000 expands AI transparency to all providers regardless of size, $5,000/violation/day if signed · China extends AI executive travel restrictions to spouses and children — pre-approval required even for short trips, effective September 15 framework, targeting Alibaba and DeepSeek talent",
+    "date": "2026-09-30T06:00:00+02:00",
+    "guid": "update-2026-09-30",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-30/update-2026-09-30.mp3",
+    "bytes": 2073586,
+    "duration": 173
   }
 ]

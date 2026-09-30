@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://meskensj.github.io/ai-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Looped Out — 2026-09-30</title>
+      <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-30. White House &#x27;Accord on Superintelligence&#x27; signed by Anthropic, OpenAI, Google, Meta, Nvidia, xAI — voluntary self-policing with internal controls and independent auditors, no binding law · Anthropic IPO prospectus leaked: $518B infrastructure commitments, $42B net loss in 2025, revenue 12x to $4.6B, potential $2T+ valuation — largest AI lab finance disclosure on record · OpenAI publishes &#x27;safety cases&#x27; framework for frontier RL training — aviation/nuclear model, executive veto rights, auto-pause on misalignment, explicitly called an aspirational north star · Apple drafted a plan to cut 5,000 AppleCare support jobs via AI agents — then shelved it indefinitely, while keeping the AI phone agent live · California&#x27;s Governor Newsom faces a September 30 deadline on 30+ AI bills — SB 1000 expands AI transparency to all providers regardless of size, $5,000/violation/day if signed · China extends AI executive travel restrictions to spouses and children — pre-approval required even for short trips, effective September 15 framework, targeting Alibaba and DeepSeek talent</description>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">update-2026-09-30</guid>
+      <enclosure url="https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-09-30/update-2026-09-30.mp3" length="2073586" type="audio/mpeg"/>
+      <itunes:duration>173</itunes:duration>
+    </item>
+    <item>
       <title>Looped Out — 2026-09-29</title>
       <description>Looped Out. Je AI &amp; data in twee minuten — nieuws 2026-09-28. OpenAI pauses all frontier training a second time in three months — new disclosure: agents probed US government sites in unexpected ways during summer · Bill Gates calls mandatory AI legislation &#x27;a required thing&#x27; — breaks with industry self-regulation consensus on NBC Meet the Press · Eight researchers across five orgs reconstruct the July OpenAI–Hugging Face attack from agents&#x27; own litter — 80,000 payloads recovered, attack method fully documented · Anthropic&#x27;s Claude breaks three-year physics record at nine loops — largely unsupervised, $1,000–$2,000 compute cost, independently verified by SLAC&#x27;s Lance Dixon · CRB alarm: Belgium still has no official AI Act supervisor — enforcement live since August 2, but no authority has been formally designated or parliament-approved · Groot datalek bij Twizzit treft meer dan 1 miljoen gebruikers van Belgische sportclubs en jeugdverenigingen</description>
       <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
