@@ -475,5 +475,14 @@
     "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-10-01/update-2026-10-01.mp3",
     "bytes": 1835151,
     "duration": 151
+  },
+  {
+    "title": "Looped Out — 2026-10-02",
+    "description": "Looped Out. Je AI & data in twee minuten — nieuws 2026-10-01. California bans AI-only firing decisions — 'No Robo Bosses Act' signed into law on Sep 30 · Google launches Gemini 4 Argon — its most capable frontier model — but restricts access to vetted cyber defenders only · Google DeepMind publishes SynthID Bio in Nature: AI-designed proteins can now be watermarked without breaking their biological function · General Intuition raises $220M at $6.2B valuation — Dutch-rooted 'action model' AI startup triples in value in three months · California SB 1000 signed: AI content disclosure obligations now apply to ALL generative AI providers, $5,000/day per violation · FTC opent breed onderzoek naar OpenAI, Anthropic en andere frontier AI-labs",
+    "date": "2026-10-02T06:00:00+02:00",
+    "guid": "update-2026-10-02",
+    "url": "https://github.com/meskensj/ai-news-podcast/releases/download/update-2026-10-02/update-2026-10-02.mp3",
+    "bytes": 2048110,
+    "duration": 171
   }
 ]
